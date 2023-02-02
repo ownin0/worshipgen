@@ -12,7 +12,7 @@
 .search--desktop input::-ms-input-placeholder{
   color: black;
 }
-.search--desktop input:before,
-.search--desktop input:after{
+.search--desktop .field:before,
+.search--desktop .field:after{
   border-radius: 15px;
 }
