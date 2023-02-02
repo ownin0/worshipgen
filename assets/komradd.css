@@ -4,3 +4,11 @@
 .search--desktop {
   padding-right: 10px;
 }
+.search--desktop input::placeholder {
+  color: red;
+  opacity: 1; 
+}
+.search--desktop input:-ms-input-placeholder,
+.search--desktop input::-ms-input-placeholder{
+  color: red;
+}
