@@ -5,10 +5,10 @@
   padding-right: 10px;
 }
 .search--desktop input::placeholder {
-  color: red;
+  color: black;
   opacity: 1; 
 }
 .search--desktop input:-ms-input-placeholder,
 .search--desktop input::-ms-input-placeholder{
-  color: red;
+  color: black;
 }
