@@ -322,19 +322,19 @@
         "template--17859463414072__2a48034a-3fc7-4bdc-b009-90b87b53d9bb-16754357536e281eb1-0": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "tops"
           }
         },
         "template--17859463414072__2a48034a-3fc7-4bdc-b009-90b87b53d9bb-16754357536e281eb1-1": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "lifestyle"
           }
         },
         "template--17859463414072__2a48034a-3fc7-4bdc-b009-90b87b53d9bb-16754357536e281eb1-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": ""
+            "collection": "team-jesus"
           }
         }
       },
@@ -351,46 +351,7 @@
         "color_scheme": "background-1",
         "show_view_all": false,
         "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -472,7 +433,6 @@
     "rich_text",
     "featured_collection",
     "2a48034a-3fc7-4bdc-b009-90b87b53d9bb",
-    "collage",
     "video",
     "multicolumn"
   ]
