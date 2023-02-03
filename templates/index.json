@@ -57,7 +57,7 @@
     "2a3a1e37-3295-405d-b64e-e1e4e13221a2": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "Lorem ipsum dolor sit amet",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -70,7 +70,7 @@
         "view_all_style": "solid",
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "show_secondary_image": false,
         "show_vendor": false,
         "show_rating": false,
