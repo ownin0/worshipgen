@@ -56,7 +56,7 @@
   padding: 0;
 }
 .slideshow__controls .slider-counter--dots .slider-counter__link span{
-  width: 120px;
+  width: 80px;
   border-color: none;
   border-radius: 0 !important;
   border: none;
