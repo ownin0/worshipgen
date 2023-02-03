@@ -21,8 +21,7 @@
   -webkit-appearance: none;
   outline: none;
 }
-.search--desktop .field input:focus,
-{
+.search--desktop .field input:focus{
   outline: none;
   -webkit-appearance: none;
 }
