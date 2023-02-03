@@ -67,6 +67,7 @@
 .slideshow__control-wrapper{
   border-radius: 10px;
   border: 1px solid white;
+  overflow: hidden;
 }
 
 
