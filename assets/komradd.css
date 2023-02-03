@@ -48,3 +48,12 @@
 .slideshow__controls .slideshow__autoplay{
   display: none;
 }
+.slideshow__controls svg,
+.slideshow__controls {
+  color: white;
+}
+
+
+
+
+
