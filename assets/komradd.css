@@ -24,7 +24,7 @@
 .search--desktop .field:focus,
 .search--desktop .field:active{
   outline: none;
-   -webkit-appearance: none;
+  -webkit-appearance: none;
 }
 .header__icon--wishlist:hover img{
   transform: scale(1.1);
