@@ -74,15 +74,6 @@
   border: none;
   color: white;
 }
-.slideshow .button:focus,
-.slideshow .button:hover,
-.slideshow .button:hover::after,
-.slideshow .button:hover::before{
-  box-shadow: none;
-  outline: none;
-  -webkit-appearance: none;
-  border: none;
-}
 
 
 
