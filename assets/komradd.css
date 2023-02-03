@@ -59,6 +59,7 @@
   width: 180px;
   border-color: none;
   border-radius: 0 !important;
+  border: none;
 }
 .slideshow__controls .slider-counter--dots .slider-counter__link.slider-counter__link--active span{
   background: white;
