@@ -74,6 +74,10 @@
   border: none;
   color: white;
 }
+.slideshow .button:focus,
+.slideshow .button:hover{
+  box-shadow: none;
+}
 .slideshow .button:after,
 .slideshow .button:before{
   box-shadow: none;
