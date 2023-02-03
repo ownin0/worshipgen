@@ -12,8 +12,11 @@
 .search--desktop input::-ms-input-placeholder{
   color: black;
 }
+
 .search--desktop .field:before,
-.search--desktop .field:after{
+.search--desktop .field:after,
+.search--desktop .field:hover::before,
+.search--desktop .field:hover::after{
   border-radius: 15px;
 }
 .header__icon--wishlist:hover img{
