@@ -46,6 +46,7 @@
       ],
       "settings": {
         "layout": "full_bleed",
+        "add-class-parent": "",
         "slide_height": "large",
         "slider_visual": "dots",
         "auto_rotate": true,
@@ -173,6 +174,7 @@
       ],
       "settings": {
         "layout": "full_bleed",
+        "add-class-parent": "bannerslider",
         "slide_height": "adapt_image",
         "slider_visual": "counter",
         "auto_rotate": false,
