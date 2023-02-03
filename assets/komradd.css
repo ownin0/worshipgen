@@ -71,6 +71,11 @@
 }
 .slideshow .button{
   background: #03989E;
+  border: none;
+}
+.slideshow .button:after,
+.slideshow .button:before{
+  box-shadow: none;
 }
 
 
