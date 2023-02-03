@@ -52,7 +52,9 @@
 .slideshow__controls {
   color: white;
 }
-
+.slideshow__controls .slider-counter--dots .slider-counter__link{
+  padding: 0;
+}
 
 
 
