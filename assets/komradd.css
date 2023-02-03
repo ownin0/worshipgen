@@ -72,6 +72,7 @@
 .slideshow .button{
   background: #03989E;
   border: none;
+  color: white;
 }
 .slideshow .button:after,
 .slideshow .button:before{
