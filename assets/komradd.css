@@ -43,7 +43,7 @@
   z-index: 3 !important;
   width: 100%;
   background: none;
-  border: none;
+  border: none !important;
 }
 .slideshow__controls .slideshow__autoplay{
   display: none;
