@@ -77,11 +77,8 @@
 .slideshow .button:focus,
 .slideshow .button:hover{
   box-shadow: none;
-}
-.slideshow .button:after,
-.slideshow .button:before{
-  box-shadow: none;
   outline: none;
+  -webkit-appearance: none;
 }
 
 
