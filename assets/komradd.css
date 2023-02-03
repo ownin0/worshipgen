@@ -57,6 +57,8 @@
 }
 .slideshow__controls .slider-counter--dots .slider-counter__link span{
   width: 180px;
+  border-color: white;
+  background: white;
 }
 
 
