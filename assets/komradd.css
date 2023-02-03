@@ -73,6 +73,7 @@
   background: #03989E;
   border: none;
   color: white;
+  border-radius: 10px;
 }
 .slideshow .button:focus,
 .slideshow .button:hover,
