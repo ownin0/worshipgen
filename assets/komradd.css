@@ -99,7 +99,12 @@
 .imagewith-text-custom .image-with-text__media {
   border: none;
 }
-
+.imagewith-text-custom h2{
+  font-weight: bold;
+}
+.imagewith-text-custom h2 span{
+  font-size: 28px;
+}
 
 
 
