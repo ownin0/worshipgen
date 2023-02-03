@@ -16,3 +16,10 @@
 .search--desktop .field:after{
   border-radius: 15px;
 }
+.header__icon--wishlist:hover img{
+  
+}
+.header__icon--wishlist img{
+  opacity: 0.7;
+  max-width: 25px;
+}
