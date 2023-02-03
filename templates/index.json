@@ -88,7 +88,7 @@
         "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "Lorem ipsum dolor<i>Lorem ipsum dolor sit amet <\/i>",
             "heading_size": "h1"
           }
         },
