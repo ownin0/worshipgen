@@ -57,10 +57,14 @@
 }
 .slideshow__controls .slider-counter--dots .slider-counter__link span{
   width: 180px;
-  border-color: white;
+  border-color: none;
 }
 .slideshow__controls .slider-counter--dots .slider-counter__link.slider-counter__link--active span{
   background: white;
+}
+.slideshow__control-wrapper{
+  border-radius: 10px;
+  border: 1px solid black;
 }
 
 
