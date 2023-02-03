@@ -76,6 +76,8 @@
 }
 .slideshow .button:focus,
 .slideshow .button:hover,
+.slideshow .button:before,
+.slideshow .button:after,
 .slideshow .button:hover::after,
 .slideshow .button:hover::before{
   box-shadow: none;
