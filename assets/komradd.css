@@ -96,6 +96,9 @@
 .collection-homepage .title{
   text-align: center;
 }
+.imagewith-text-custom .image-with-text__media {
+  border: none;
+}
 
 
 
