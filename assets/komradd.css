@@ -37,3 +37,9 @@
 .shopify-section-header-sticky{
   box-shadow: 0 10px 30px #0000000d;
 }
+.slideshow__controls {
+  position: absolute;
+  bottom: 0;
+  z-index: 3;
+  width: 100%;
+}
