@@ -69,7 +69,8 @@
   border: 1px solid white;
   overflow: hidden;
 }
-.slideshow .button{
+.slideshow .button,
+.collection-homepage .button{
   background: #03989E;
   border: none;
   color: white;
@@ -80,7 +81,13 @@
 .slideshow .button:before,
 .slideshow .button:after,
 .slideshow .button:hover::after,
-.slideshow .button:hover::before{
+.slideshow .button:hover::before,
+.collection-homepage .button:focus,
+.collection-homepage .button:hover,
+.collection-homepage .button:before,
+.collection-homepage .button:after,
+.collection-homepage .button:hover::after,
+.collection-homepage .button:hover::before{
   box-shadow: none;
   outline: none;
   -webkit-appearance: none;
@@ -89,7 +96,6 @@
 .collection-homepage .title{
   text-align: center;
 }
-
 
 
 
