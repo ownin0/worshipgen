@@ -59,7 +59,7 @@
   width: 180px;
   border-color: white;
 }
-.slideshow__controls .slider-counter--dots .slider-counter__link .slider-counter__link--active span{
+.slideshow__controls .slider-counter--dots .slider-counter__link.slider-counter__link--active span{
   background: white;
 }
 
