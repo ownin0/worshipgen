@@ -81,6 +81,7 @@
 .slideshow .button:after,
 .slideshow .button:before{
   box-shadow: none;
+  outline: none;
 }
 
 
