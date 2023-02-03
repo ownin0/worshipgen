@@ -58,6 +58,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Lorem ipsum dolor sit amet",
+        "add-class-parent": "collection-homepage",
         "heading_size": "h1",
         "description": "",
         "show_description": false,
@@ -71,7 +72,7 @@
         "enable_desktop_slider": false,
         "color_scheme": "background-1",
         "image_ratio": "square",
-        "show_secondary_image": false,
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
         "enable_quick_add": false,
@@ -162,6 +163,7 @@
       "type": "featured-collection",
       "settings": {
         "title": "Featured products",
+        "add-class-parent": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
