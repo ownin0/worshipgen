@@ -16,9 +16,12 @@
 .search--desktop .field:before,
 .search--desktop .field:after,
 .search--desktop .field:hover::before,
-.search--desktop .field:hover::after,
-.search--desktop .field:focus{
+.search--desktop .field:hover::after{
   border-radius: 15px;
+}
+.search--desktop .field:focus,
+.search--desktop .field:active{
+  outline: none;
 }
 .header__icon--wishlist:hover img{
   transform: scale(1.1);
