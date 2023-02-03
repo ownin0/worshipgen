@@ -114,6 +114,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/Worship_Generation_Mock-up_version_2_1.png",
+        "add-class-parent": "imagewith-text-custom",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
