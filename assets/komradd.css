@@ -33,3 +33,6 @@
   max-width: 25px;
   margin-left: 10px;
 }
+.field__input:focus, .select__select:focus, .customer .field input:focus, .customer select:focus, .localization-form__select:focus.localization-form__select:after ,.field__input:focus-visible, .select__select:focus-visible, .customer .field input:focus-visible, .customer select:focus-visible, .localization-form__select:focus-visible.localization-form__select:after {
+    box-shadow: 0 0 0 0 !important;
+}
