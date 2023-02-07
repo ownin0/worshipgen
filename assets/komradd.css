@@ -160,8 +160,7 @@
     font-size: 18px !important;
   }
   .card__content product-form form{
-    max-width: 90%;
-    margin: auto;
+    display: none;
   }
   .search--desktop{
     display: none;
@@ -169,10 +168,7 @@
   header .header__heading-logo{
     max-width: 100px;
   }
-  .card__content product-form form button{
-    min-height: 20px;
-  }
   .slideshow__controls .slider-counter--dots .slider-counter__link span{
-    width: 20px;
+    width: 30px;
   }
 }
