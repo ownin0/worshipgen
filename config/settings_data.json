@@ -165,8 +165,8 @@
           "footer-0": {
             "type": "link_list",
             "settings": {
-              "heading": "Quick links",
-              "menu": "footer"
+              "heading": "Our Policies",
+              "menu": "our-policies"
             }
           },
           "footer-1": {
