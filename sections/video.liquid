@@ -15,7 +15,7 @@
   }
 {%- endstyle -%}
 
-<div class="color-{{ section.settings.color_scheme }} gradient">
+<div class="color-{{ section.settings.color_scheme }} gradient {{section.settings.add-class-parent}}">
   <div class="video-section isolate{% unless section.settings.full_width %} page-width{% endunless %} section-{{ section.id }}-padding">
     <div{% if section.settings.full_width %} class="page-width"{% endif %}>
       {%- unless section.settings.heading == blank -%}
@@ -86,6 +86,11 @@
   "tag": "section",
   "class": "section",
   "settings": [
+    {
+      "type": "text",
+      "id": "add-class-parent",
+      "label": "Add Class Parent"
+    },
     {
       "type": "text",
       "id": "heading",
