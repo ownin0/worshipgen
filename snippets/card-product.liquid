@@ -31,6 +31,12 @@
       assign ratio = 1
     endif
   -%}
+  <div class="wishlist-circle">
+    {% render 'swym-product-view', product: card_product %}
+    <button data-swaction="addToWishlist" data-product-id="{{card_product.id | json}}">
+      <img src="{{ 'wishlist.png' | asset_url }}">
+    </button>
+  </div>
   <div class="card-wrapper product-card-wrapper underline-links-hover">
     <div
       class="
@@ -50,12 +56,7 @@
       >
         {%- if card_product.featured_media -%}
           <div class="card__media">
-            <div class="wishlist-circle">
-              {% render 'swym-product-view', product: card_product %}
-              <button data-swaction="addToWishlist" data-product-id="{{card_product.id | json}}">
-                <img src="{{ 'wishlist.png' | asset_url }}">
-              </button>
-            </div>
+            
             
         
 
