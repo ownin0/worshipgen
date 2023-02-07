@@ -18,7 +18,12 @@
 {% endcomment %}
 
 {{ 'component-rating.css' | asset_url | stylesheet_tag }}
-
+<div class="wishlist-circle">
+  {% render 'swym-product-view', product: card_product %}
+  <button data-swaction="addToWishlist" data-product-id="{{card_product.id | json}}">
+    <img src="{{ 'wishlist.png' | asset_url }}">
+  </button>
+</div>
 {%- if card_product and card_product != empty -%}
   {%- liquid
     assign ratio = 1
@@ -324,12 +329,7 @@
     </div>
   </div>
 {%- else -%}
-<div class="wishlist-circle">
-  {% render 'swym-product-view', product: card_product %}
-  <button data-swaction="addToWishlist" data-product-id="{{card_product.id | json}}">
-    <img src="{{ 'wishlist.png' | asset_url }}">
-  </button>
-</div>
+
   <div class="product-card-wrapper card-wrapper underline-links-hover">
     <div
       class="
