@@ -149,6 +149,9 @@
   color: #03989e !important;
   -webkit-text-fill-color: #03989e !important;
 }
+.icon-container-foot{
+  display: flex;
+}
 .icon-container-foot svg path{
   fill: white;
 }
