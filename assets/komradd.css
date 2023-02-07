@@ -164,6 +164,9 @@
 .icon-container-foot p a{
   text-decoration: none;
 }
+.icon-container-foot p a:hover{
+  text-decoration: underline;
+}
 .mt10{
   margin-top: 25px;
 }
