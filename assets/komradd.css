@@ -161,6 +161,6 @@
   }
   .card__content product-form form{
     max-width: 90%;
-    margin-right: auto;
+    margin: auto;
   }
 }
