@@ -156,11 +156,14 @@
 }
 .icon-container-foot img{
   filter: invert(1);
+  border: none;
 }
 .icon-container-foot p{
   margin: 0;
 }
-
+.icon-container-foot p a{
+  text-decoration: none;
+}
 
 
 
