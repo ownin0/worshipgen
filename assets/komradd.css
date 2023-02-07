@@ -173,7 +173,8 @@
 .slideshow__control-wrapper{
   margin: 0;
 }
-.make-video-rounded .deferred-media__poster{
+.make-video-rounded .deferred-media__poster,
+.make-video-rounded iframe{
   border-radius: 20px;
 }
 .make-video-rounded .video-section__media {
