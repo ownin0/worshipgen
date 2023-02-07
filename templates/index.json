@@ -361,6 +361,7 @@
     "video": {
       "type": "video",
       "settings": {
+        "add-class-parent": "make-video-rounded",
         "heading": "",
         "heading_size": "h1",
         "cover_image": "shopify:\/\/shop_images\/malcolm-lightbody-E4Kuj7GsBjg-unsplash_1_1.png",
