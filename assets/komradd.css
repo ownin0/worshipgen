@@ -106,7 +106,10 @@
 .imagewith-text-custom h2 span{
   font-size: 28px;
 }
-
+.wishlist-circle{
+  position: relative;
+  z-index: 99;
+}
 
 
 
