@@ -60,6 +60,16 @@
                 {%- when 'text' -%}
                   <div class="footer-block__details-content rte">
                     {{ block.settings.subtext }}
+
+                    <div class="icon-container-foot">
+                      <div><img src="{{ 'Calling.svg' | asset_url }}"></div>
+                      <div><p>{{section.settings.text-phone}}</p></div>
+                    </div>
+                    <div class="icon-container-foot">
+                      <div><img src="{{ 'Message.svg' | asset_url }}"></div>
+                      <div><p>{{section.settings.text-email}}</p></div>
+                    </div>
+
                   </div>
                 {%- when 'link_list' -%}
                   {%- if block.settings.menu != blank -%}
@@ -433,6 +443,16 @@
           "id": "subtext",
           "default": "<p>Share contact information, store details, and brand content with your customers.</p>",
           "label": "t:sections.footer.blocks.text.settings.subtext.label"
+        },
+        {
+          "type": "text",
+          "id": "text-phone",
+          "label": "Phone"
+        },
+        {
+          "type": "text",
+          "id": "text-email",
+          "label": "Email"
         }
       ]
     },
