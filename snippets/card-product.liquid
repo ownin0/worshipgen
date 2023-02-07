@@ -50,9 +50,9 @@
       >
         {%- if card_product.featured_media -%}
           <div class="card__media">
-            
+
             <div class="wishlist--circle">
-              {% include 'swym-product-view', product: product %}
+              {% render 'swym-product-view', product: product %}
               <button class="swym-button swym-add-to-wishlist-view-product product_{{product.id}}" data-swaction="addToWishlist" data-product-id="{{product.id | json}}"></button>
             </div>
         
