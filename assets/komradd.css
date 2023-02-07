@@ -121,6 +121,7 @@
 }
 .wishlist-circle button img{
   width: 100%;
+  transition: all 0.3s ease;
 }
 .wishlist-circle button{
   border-radius: 100px;
@@ -129,11 +130,15 @@
   background: #b8d8d9f2;
   border: none;
   box-shadow: 0 0 10px #0000006b;
+  cursor: pointer;
+  transition: all 0.3s ease;
 }
-.wishlist-circle button.disabled {
+.wishlist-circle button.disabled,
+.wishlist-circle button:hover{
   background: #03989e;
 }
-.wishlist-circle button.disabled img{
+.wishlist-circle button.disabled img,
+.wishlist-circle button:hover img{
   filter: invert(1);
 }
 
