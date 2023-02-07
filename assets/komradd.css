@@ -144,8 +144,10 @@
 .card-information .rating {
   margin-bottom: 10px;
 }
-.card-information .rating span{
-  font-size: 20px;
+.card-information .rating .rating-star:before,
+.card-information .rating-count {
+  font-size: 20px !important;
+  color: #03989e;
 }
 
 
