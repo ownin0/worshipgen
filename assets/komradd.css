@@ -171,4 +171,12 @@
   .slideshow__controls .slider-counter--dots .slider-counter__link span{
     width: 30px;
   }
+  .wishlist-circle button{
+    height: 32px;
+    width: 32px;
+  }
+  .wishlist-circle{
+    top: 6px;
+    right: 8px;
+  }
 }
