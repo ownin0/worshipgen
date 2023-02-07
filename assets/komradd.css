@@ -198,4 +198,14 @@
     top: 6px;
     right: 8px;
   }
+  .footer__blocks-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px 10px;
+  }
+  .footer__blocks-wrapper .footer-block--menu{
+    max-width: calc(50% - 5px);
+    margin-top: 0;
+    margin-bottom: 0;
+  }
 }
