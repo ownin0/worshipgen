@@ -145,13 +145,21 @@
   margin-bottom: 10px;
 }
 .custom-class-rating.rating .rating-star:before{
-  font-size: 20px !important;
+  font-size: 22px !important;
   color: #03989e !important;
   -webkit-text-fill-color: #03989e !important;
+}
+.card__content product-form{
+  max-width: 90%;
+  margin-right: auto;
 }
 
 
 
 
 
-
+@media (max-width: 749px){
+  .custom-class-rating.rating .rating-star:before{
+    font-size: 17px !important;
+  }
+}
