@@ -201,7 +201,7 @@
   .footer__blocks-wrapper{
     display: flex !important;
     flex-wrap: wrap;
-    gap: 20px 10px;
+    gap: 5px 10px;
   }
   .footer__blocks-wrapper .footer-block--menu{
     max-width: calc(50% - 5px);
@@ -210,5 +210,8 @@
   }
   .footer-block.grid__item{
     margin: 0 !important;
+  }
+  .footer-block__details-content .list-menu__item--link{
+    font-size: 11px;
   }
 }
