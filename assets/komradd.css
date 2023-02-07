@@ -172,4 +172,7 @@
   .card__content product-form form button{
     min-height: 20px;
   }
+  .slideshow__controls .slider-counter--dots .slider-counter__link span{
+    width: 20px;
+  }
 }
