@@ -170,7 +170,9 @@
 .mt10{
   margin-top: 25px;
 }
-
+.slideshow__control-wrapper{
+  margin: 0;
+}
 
 @media (max-width: 749px){
   .custom-class-rating.rating .rating-star:before{
