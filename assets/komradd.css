@@ -173,6 +173,15 @@
 .slideshow__control-wrapper{
   margin: 0;
 }
+.make-video-rounded .deferred-media__poster{
+  border-radius: 20px;
+}
+.make-video-rounded .video-section__media {
+  border: none;
+  box-shadow: 0 0 30px 0px #0000001c;
+  border-radius: 20px;
+}
+
 
 @media (max-width: 749px){
   .custom-class-rating.rating .rating-star:before{
