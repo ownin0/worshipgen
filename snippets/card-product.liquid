@@ -142,7 +142,7 @@
       <div class="card__content">
         <div class="card__information">
           <div class="wishlist-circle">
-            {% render 'swym-product-view', product: product %}<button data-swaction="addToWishlist" data-product-id="{{product.id | json}}"></button>
+            {% render 'swym-product-view', product: card_product %}<button data-swaction="addToWishlist" data-product-id="{{card_product.id | json}}"></button>
           </div>
           <h3
             class="card__heading{% if card_product.featured_media or settings.card_style == 'standard' %} h5{% endif %}"
