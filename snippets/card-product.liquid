@@ -104,8 +104,7 @@
         <div class="card__content">
           <div class="card__information">
             <div class="wishlist--circle">
-              {% render 'swym-product-view', product: product %}
-              <button class="swym-button swym-add-to-wishlist-view-product product_{{product.id}}" data-swaction="addToWishlist" data-product-id="{{product.id | json}}"></button>
+              {% include 'swym-product-view', product: product %}<button data-swaction="addToWishlist" data-product-id="{{product.id | json}}"></button>
             </div>
             <h3
               class="card__heading"
