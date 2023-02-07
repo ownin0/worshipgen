@@ -169,4 +169,7 @@
   header .header__heading-logo{
     max-width: 100px;
   }
+  .card__content product-form form button{
+    min-height: 20px;
+  }
 }
