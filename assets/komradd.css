@@ -130,10 +130,10 @@
   border: none;
   box-shadow: 0 0 10px #0000006b;
 }
-.wishlist-circle button.swym-loaded{
+.wishlist-circle button.disabled {
   background: #03989e;
 }
-.wishlist-circle button.swym-loaded img{
+.wishlist-circle button.disabled img{
   filter: invert(1);
 }
 
