@@ -199,13 +199,13 @@
     right: 8px;
   }
   .footer__blocks-wrapper{
-    display: flex;
+    display: flex !important;
     flex-wrap: wrap;
     gap: 20px 10px;
   }
   .footer__blocks-wrapper .footer-block--menu{
     max-width: calc(50% - 5px);
-    margin-top: 0;
-    margin-bottom: 0;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
   }
 }
