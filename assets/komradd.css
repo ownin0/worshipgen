@@ -150,12 +150,16 @@
   -webkit-text-fill-color: #03989e !important;
 }
 .icon-container-foot{
+  gap: 10px;
   display: flex;
+  align-items: flex-start;
 }
-.icon-container-foot svg path{
-  fill: white;
+.icon-container-foot img{
+  filter: invert(1);
 }
-
+.icon-container-foot p{
+  margin: 0;
+}
 
 
 
