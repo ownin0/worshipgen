@@ -141,7 +141,12 @@
 .wishlist-circle button:hover img{
   filter: invert(1);
 }
-
+.card-information .rating {
+  margin-bottom: 10px;
+}
+.card-information .rating span{
+  font-size: 20px;
+}
 
 
 
