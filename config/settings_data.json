@@ -172,8 +172,8 @@
           "footer-1": {
             "type": "link_list",
             "settings": {
-              "heading": "Info",
-              "menu": "footer"
+              "heading": "Best Sellers",
+              "menu": "best-sellers"
             }
           },
           "footer-2": {
