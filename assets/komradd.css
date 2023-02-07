@@ -141,7 +141,7 @@
 .wishlist-circle button:hover img{
   filter: invert(1);
 }
-.card-information .rating {
+.custom-class-rating.rating {
   margin-bottom: 10px;
 }
 .custom-class-rating.rating .rating-star:before{
