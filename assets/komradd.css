@@ -163,4 +163,10 @@
     max-width: 90%;
     margin: auto;
   }
+  .search--desktop{
+    display: none;
+  }
+  header .header__heading-logo{
+    max-width: 100px;
+  }
 }
