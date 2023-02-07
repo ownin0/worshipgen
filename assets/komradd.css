@@ -225,6 +225,6 @@
     font-size: 11px;
   }
   .banner--large:not(.banner--mobile-bottom):not(.banner--adapt) .banner__content{
-    min-height: 42rem;
+    min-height: 42rem !important;
   }
 }
