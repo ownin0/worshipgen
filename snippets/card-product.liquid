@@ -50,6 +50,11 @@
       >
         {%- if card_product.featured_media -%}
           <div class="card__media">
+            <div class="wishlist--circle">
+              {% include 'swym-product-view', product: product %}
+              <button class="swym-button swym-add-to-wishlist-view-product product_{{product.id}}" data-swaction="addToWishlist" data-product-id="{{product.id | json}}"></button>
+            </div>
+          </div>
             <div class="media media--transparent media--hover-effect">
               {% comment %}theme-check-disable ImgLazyLoading{% endcomment %}
               <img
