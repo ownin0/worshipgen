@@ -157,7 +157,7 @@
 
 @media (max-width: 749px){
   .custom-class-rating.rating .rating-star:before{
-    font-size: 17px !important;
+    font-size: 18px !important;
   }
   .card__content product-form form{
     max-width: 90%;
