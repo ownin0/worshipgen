@@ -110,8 +110,32 @@
   position: relative;
   z-index: 99;
 }
-
-
+.product-grid .grid__item{
+  position: relative;
+}
+.wishlist-circle{
+  position: absolute;
+  z-index: 99;
+  top: 15px;
+  right: 20px;
+}
+.wishlist-circle button img{
+  width: 100%;
+}
+.wishlist-circle button{
+  border-radius: 100px;
+  height: 40px;
+  width: 40px;
+  background: #b8d8d9f2;
+  border: none;
+  box-shadow: 0 0 10px #0000006b;
+}
+.wishlist-circle button.swym-loaded{
+  background: #03989e;
+}
+.wishlist-circle button.swym-loaded img{
+  filter: invert(1);
+}
 
 
 
