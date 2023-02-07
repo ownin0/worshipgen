@@ -10,7 +10,7 @@
             "star_size": 17,
             "text_align": "flex-start",
             "product": "{{product}}",
-            "stars_text_empty": "Write first review"
+            "stars_text_empty": "No Reviews"
           }
         },
         "vendor": {
