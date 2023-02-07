@@ -147,6 +147,7 @@
 .custom-class-rating.rating .rating-star:before{
   font-size: 20px !important;
   color: #03989e;
+  -webkit-text-fill-color: #03989e;
 }
 
 
