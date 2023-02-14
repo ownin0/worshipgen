@@ -150,10 +150,10 @@
           "logo_width": 130,
           "logo_position": "middle-left",
           "menu": "main-menu",
-          "mobile-menu": "",
           "menu_type_desktop": "dropdown",
           "show_line_separator": true,
           "enable_sticky_header": true,
+          "mobile_logo_position": "center",
           "margin_bottom": 0,
           "padding_top": 4,
           "padding_bottom": 4
@@ -225,7 +225,7 @@
     "blocks": {
       "15623156175785154009": {
         "type": "shopify:\/\/apps\/qikify-smart-menu-mega-menu\/blocks\/app-embed\/19d2f1cd-1836-4a32-8937-03df3c601dc8",
-        "disabled": true,
+        "disabled": false,
         "settings": {
         }
       }
