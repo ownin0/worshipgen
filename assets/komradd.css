@@ -182,7 +182,9 @@
   box-shadow: 0 0 30px 0px #0000001c;
   border-radius: 20px;
 }
-
+#shopify-section-header{
+  z-index: 100;
+}
 
 @media (max-width: 749px){
   .custom-class-rating.rating .rating-star:before{
