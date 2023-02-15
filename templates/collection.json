@@ -1,5 +1,21 @@
 {
   "sections": {
+    "9679838f-bb8f-4e97-9cfb-ec17d41a3b03": {
+      "type": "image-banner",
+      "settings": {
+        "image": "{{ collection.metafields.custom.top_banner.value }}",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "settings": {
@@ -28,6 +44,7 @@
     }
   },
   "order": [
+    "9679838f-bb8f-4e97-9cfb-ec17d41a3b03",
     "banner",
     "product-grid"
   ]
