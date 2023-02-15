@@ -425,6 +425,17 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "dd866c85-2a28-41f9-951a-2e1d248f2885": {
+      "type": "instafeed",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading_size": 30,
+        "feed_width": 100,
+        "html_area": ""
+      }
     }
   },
   "order": [
@@ -438,6 +449,7 @@
     "featured_collection",
     "2a48034a-3fc7-4bdc-b009-90b87b53d9bb",
     "video",
-    "multicolumn"
+    "multicolumn",
+    "dd866c85-2a28-41f9-951a-2e1d248f2885"
   ]
 }
