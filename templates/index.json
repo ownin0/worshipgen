@@ -6,7 +6,7 @@
         "template--17859463414072__f2096d7b-2167-4e76-98b4-091614ed5655-167535616499fe0ca4-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Untitled-1.jpg",
+            "image": "shopify:\/\/shop_images\/Baa.jpg",
             "heading": "Image slide",
             "heading_size": "h0",
             "subheading": "Tell your brand's story through images",
@@ -114,7 +114,7 @@
         "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/P1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF8518.jpg",
         "add-class-parent": "imagewith-text-custom",
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -130,6 +130,7 @@
     },
     "5d7d8494-ccbe-4497-8eca-c77c0c73ee71": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--17859463414072__5d7d8494-ccbe-4497-8eca-c77c0c73ee71-16754349626653d77d-0": {
           "type": "slide",
