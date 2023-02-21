@@ -82,7 +82,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/be7b61_a3d3866457e941518800bb6914aef2a2_mv2.webp",
             "title": "Alabang Town",
-            "text": "<p>Center<\/p>",
+            "text": "",
             "link_label": "",
             "link": ""
           }
@@ -112,7 +112,7 @@
         "background_style": "primary",
         "button_label": "Button label",
         "button_link": "",
-        "color_scheme": "background-1",
+        "color_scheme": "accent-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
