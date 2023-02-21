@@ -100,8 +100,9 @@
         "c79128b0-befc-46d1-9d53-95d9495efc20": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/be7b61_5cccd734f919491bbf7e63c6490b468c_mv2.webp",
+            "title": "SM North Edsa",
+            "text": "",
             "link_label": "",
             "link": ""
           }
