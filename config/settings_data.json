@@ -162,18 +162,18 @@
       "footer": {
         "type": "footer",
         "blocks": {
-          "footer-0": {
-            "type": "link_list",
-            "settings": {
-              "heading": "Our Policies",
-              "menu": "our-policies"
-            }
-          },
           "footer-1": {
             "type": "link_list",
             "settings": {
               "heading": "Best Sellers",
               "menu": "explore"
+            }
+          },
+          "footer-0": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Our Policies",
+              "menu": "our-policies"
             }
           },
           "footer-2": {
@@ -187,14 +187,14 @@
           }
         },
         "block_order": [
-          "footer-0",
           "footer-1",
+          "footer-0",
           "footer-2"
         ],
         "settings": {
           "color_scheme": "accent-1",
           "newsletter_enable": true,
-          "newsletter_heading": "Join our email list",
+          "newsletter_heading": "GET 10% OFF",
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": false,
