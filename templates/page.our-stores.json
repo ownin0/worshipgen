@@ -47,6 +47,9 @@
         "template--18091332501816__8ff5cf83-56df-4a0b-a693-5278e373db58-16769715453f7de3a5-1",
         "template--18091332501816__8ff5cf83-56df-4a0b-a693-5278e373db58-16769715453f7de3a5-2"
       ],
+      "custom_css": [
+        ".title-wrapper-with-link {justify-content: center;}"
+      ],
       "settings": {
         "add-class-parent": "our-stores",
         "title": "Online Stores",
@@ -171,7 +174,8 @@
         "76c21188-0fa1-4fe6-bae1-a1b8d12c281f"
       ],
       "custom_css": [
-        "img {width: 100%; object-fit: cover;}"
+        "img {width: 100%; object-fit: cover;}",
+        ".title-wrapper-with-link {justify-content: center;}"
       ],
       "settings": {
         "add-class-parent": "our-stores",
