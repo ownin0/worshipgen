@@ -6,9 +6,9 @@
         "template--17859463414072__f2096d7b-2167-4e76-98b4-091614ed5655-167535616499fe0ca4-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/WG_C_1.png",
+            "image": "shopify:\/\/shop_images\/Baa.jpg",
             "heading": "Image slide",
-            "heading_size": "h1",
+            "heading_size": "h0",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "shopify:\/\/collections",
@@ -16,7 +16,7 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 20,
+            "image_overlay_opacity": 10,
             "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
@@ -24,7 +24,7 @@
         "template--17859463414072__f2096d7b-2167-4e76-98b4-091614ed5655-167535616499fe0ca4-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GB_1.jpg",
+            "image": "shopify:\/\/shop_images\/Banner_H.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
@@ -34,7 +34,7 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 20,
+            "image_overlay_opacity": 0,
             "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
@@ -50,7 +50,7 @@
         "slide_height": "large",
         "slider_visual": "dots",
         "auto_rotate": true,
-        "change_slides_speed": 5,
+        "change_slides_speed": 3,
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
@@ -114,7 +114,7 @@
         "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/P1.jpg",
+        "image": "shopify:\/\/shop_images\/DSCF8518.jpg",
         "add-class-parent": "imagewith-text-custom",
         "height": "adapt",
         "desktop_image_width": "medium",
@@ -130,6 +130,7 @@
     },
     "5d7d8494-ccbe-4497-8eca-c77c0c73ee71": {
       "type": "slideshow",
+      "disabled": true,
       "blocks": {
         "template--17859463414072__5d7d8494-ccbe-4497-8eca-c77c0c73ee71-16754349626653d77d-0": {
           "type": "slide",
@@ -364,8 +365,8 @@
         "add-class-parent": "make-video-rounded",
         "heading": "",
         "heading_size": "h1",
-        "cover_image": "shopify:\/\/shop_images\/malcolm-lightbody-E4Kuj7GsBjg-unsplash_1_1.png",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "cover_image": "shopify:\/\/shop_images\/Shopi_Banner.jpg",
+        "video_url": "https:\/\/youtu.be\/nVAnpkh86sQ",
         "description": "",
         "full_width": false,
         "color_scheme": "background-1",
