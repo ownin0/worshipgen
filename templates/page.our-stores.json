@@ -114,6 +114,9 @@
         "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-2",
         "c79128b0-befc-46d1-9d53-95d9495efc20"
       ],
+      "custom_css": [
+        "img{width: 100%; object-fit: cover;}"
+      ],
       "settings": {
         "title": "Physical Stores",
         "heading_size": "h1",
