@@ -8,61 +8,6 @@
         "padding_bottom": 28
       }
     },
-    "2ea0e6ca-7bcb-4314-ab85-d36eeab1e595": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/be7b61_f488c787d9fe4c89bb8979549d6af13b_mv2.webp",
-            "title": "SM City Bacolod",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/be7b61_a3d3866457e941518800bb6914aef2a2_mv2.webp",
-            "title": "Alabang Town",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-2": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-0",
-        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-1",
-        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-2"
-      ],
-      "settings": {
-        "title": "Physical Stores",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "square",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "accent-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "8ff5cf83-56df-4a0b-a693-5278e373db58": {
       "type": "multicolumn",
       "blocks": {
@@ -118,11 +63,66 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "2ea0e6ca-7bcb-4314-ab85-d36eeab1e595": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/be7b61_f488c787d9fe4c89bb8979549d6af13b_mv2.webp",
+            "title": "SM City Bacolod",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/be7b61_a3d3866457e941518800bb6914aef2a2_mv2.webp",
+            "title": "Alabang Town",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-0",
+        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-1",
+        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-2"
+      ],
+      "settings": {
+        "title": "Physical Stores",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "square",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "main",
-    "2ea0e6ca-7bcb-4314-ab85-d36eeab1e595",
-    "8ff5cf83-56df-4a0b-a693-5278e373db58"
+    "8ff5cf83-56df-4a0b-a693-5278e373db58",
+    "2ea0e6ca-7bcb-4314-ab85-d36eeab1e595"
   ]
 }
