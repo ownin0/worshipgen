@@ -188,6 +188,9 @@
 .our-stores .multicolumn-card{
   background: linear-gradient(51deg, rgb(0 226 235) 15%, rgba(33, 249, 150, 1) 85%) !important;
 }
+.our-stores{
+  margin: 50px 0;
+}
 
 
 
