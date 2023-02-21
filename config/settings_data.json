@@ -194,7 +194,7 @@
         "settings": {
           "color_scheme": "accent-1",
           "newsletter_enable": true,
-          "newsletter_heading": "GET 10% OFF",
+          "newsletter_heading": "Join our email list",
           "show_social": true,
           "enable_country_selector": false,
           "enable_language_selector": false,
