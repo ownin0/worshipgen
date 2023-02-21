@@ -8,55 +8,48 @@
         "padding_bottom": 28
       }
     },
-    "6c0466dc-4f61-4dfe-bfc6-f8d72e0bb138": {
-      "type": "collapsible-content",
+    "e43d5ff6-671a-4daf-8e5b-a705845ca3a1": {
+      "type": "collapssible-image",
       "blocks": {
-        "template--18092032819512__6c0466dc-4f61-4dfe-bfc6-f8d72e0bb138-1676975270ca5af755-0": {
+        "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-0": {
           "type": "collapsible_row",
           "settings": {
-            "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
+            "heading": "UNISESX TEE SIZE CHART",
+            "icon": "none",
+            "row_content": "shopify:\/\/shop_images\/UNISEX_TEE_1.webp"
           }
         },
-        "template--18092032819512__6c0466dc-4f61-4dfe-bfc6-f8d72e0bb138-1676975270ca5af755-1": {
+        "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-1": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
+            "icon": "none"
           }
         },
-        "template--18092032819512__6c0466dc-4f61-4dfe-bfc6-f8d72e0bb138-1676975270ca5af755-2": {
+        "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-2": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
+            "icon": "none"
           }
         },
-        "template--18092032819512__6c0466dc-4f61-4dfe-bfc6-f8d72e0bb138-1676975270ca5af755-3": {
+        "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-3": {
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_mark",
-            "row_content": "",
-            "page": ""
+            "icon": "none"
           }
         }
       },
       "block_order": [
-        "template--18092032819512__6c0466dc-4f61-4dfe-bfc6-f8d72e0bb138-1676975270ca5af755-0",
-        "template--18092032819512__6c0466dc-4f61-4dfe-bfc6-f8d72e0bb138-1676975270ca5af755-1",
-        "template--18092032819512__6c0466dc-4f61-4dfe-bfc6-f8d72e0bb138-1676975270ca5af755-2",
-        "template--18092032819512__6c0466dc-4f61-4dfe-bfc6-f8d72e0bb138-1676975270ca5af755-3"
+        "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-0",
+        "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-1",
+        "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-2",
+        "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-3"
       ],
       "settings": {
         "caption": "",
-        "heading": "MAKE IMAGE",
+        "heading": "Collapsible content",
         "heading_size": "h1",
         "heading_alignment": "center",
         "layout": "none",
@@ -72,6 +65,6 @@
   },
   "order": [
     "main",
-    "6c0466dc-4f61-4dfe-bfc6-f8d72e0bb138"
+    "e43d5ff6-671a-4daf-8e5b-a705845ca3a1"
   ]
 }
