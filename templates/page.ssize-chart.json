@@ -16,7 +16,7 @@
           "settings": {
             "heading": "UNISESX TEE SIZE CHART",
             "icon": "none",
-            "row_content": "shopify:\/\/shop_images\/UNISEX_TEE_1.webp"
+            "row_content": "shopify:\/\/shop_images\/size1.jpg"
           }
         },
         "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-1": {
@@ -50,7 +50,7 @@
       "custom_css": [
         ".accordion__content {padding: 20px;}",
         "img {width: 100%;}",
-        ".collapsible-content{margin:40px 0;}"
+        ".collapsible-content {margin: 40px 0;}"
       ],
       "settings": {
         "caption": "",
