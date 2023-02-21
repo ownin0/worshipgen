@@ -171,7 +171,7 @@
       ],
       "custom_css": [
         "img {width: 100%; object-fit: cover;}",
-        ".multicolumn-card {background: linear-gradient(130deg, rgb(23 217 225) 15%, rgba(33, 249, 150, 1) 85%) !important;}"
+        ".multicolumn-card {background: linear-gradient( 130deg, rgb(23 217 225) 15%, rgba(33, 249, 150, 1) 85% );}"
       ],
       "settings": {
         "title": "Physical Stores",
