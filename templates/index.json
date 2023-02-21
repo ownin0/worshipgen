@@ -16,7 +16,7 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 20,
+            "image_overlay_opacity": 10,
             "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
@@ -50,7 +50,7 @@
         "slide_height": "large",
         "slider_visual": "dots",
         "auto_rotate": true,
-        "change_slides_speed": 5,
+        "change_slides_speed": 3,
         "show_text_below": false,
         "accessibility_info": "Slideshow about our brand"
       }
