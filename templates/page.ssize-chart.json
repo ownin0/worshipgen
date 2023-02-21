@@ -47,6 +47,10 @@
         "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-2",
         "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-3"
       ],
+      "custom_css": [
+        ".accordion__content {padding: 20px;}",
+        "img{width: 100%;}"
+      ],
       "settings": {
         "caption": "",
         "heading": "Collapsible content",
