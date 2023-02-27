@@ -146,6 +146,7 @@
         "template--18163443958072__5a2d87bb-12ba-45f0-b115-0188ed8b7df3-1677515749dd946689-0": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IconlyLightChat.png",
             "title": "Contact Us",
             "text": "",
             "link_label": "Learn more",
@@ -155,6 +156,7 @@
         "template--18163443958072__5a2d87bb-12ba-45f0-b115-0188ed8b7df3-1677515749dd946689-1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IconlyLightNotification.png",
             "title": "Keep in Touch",
             "text": "",
             "link_label": "Learn more",
@@ -164,6 +166,7 @@
         "template--18163443958072__5a2d87bb-12ba-45f0-b115-0188ed8b7df3-1677515749dd946689-2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/IconlyLightBuy.png",
             "title": "Explore Products",
             "text": "",
             "link_label": "Learn more",
@@ -180,12 +183,12 @@
         "add-class-parent": "",
         "title": "",
         "heading_size": "h1",
-        "image_width": "full",
+        "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
