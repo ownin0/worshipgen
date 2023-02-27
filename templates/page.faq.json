@@ -179,6 +179,9 @@
         "template--18163443958072__5a2d87bb-12ba-45f0-b115-0188ed8b7df3-1677515749dd946689-1",
         "template--18163443958072__5a2d87bb-12ba-45f0-b115-0188ed8b7df3-1677515749dd946689-2"
       ],
+      "custom_css": [
+        ".multicolumn-card__image-wrapper {max-width: 100px;}"
+      ],
       "settings": {
         "add-class-parent": "",
         "title": "",
@@ -186,14 +189,14 @@
         "image_width": "third",
         "image_ratio": "adapt",
         "columns_desktop": 3,
-        "column_alignment": "left",
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "background-1",
         "columns_mobile": "1",
         "swipe_on_mobile": false,
-        "padding_top": 36,
+        "padding_top": 60,
         "padding_bottom": 36
       }
     }
