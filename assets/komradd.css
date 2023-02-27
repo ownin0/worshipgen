@@ -213,7 +213,7 @@
 .contact-page #ContactForm .field input,
 .contact-page #ContactForm .field::after,
 .contact-page #ContactForm .field::before,
-.contact-page #ContactForm {
+.contact-page #ContactForm label {
   color: black;
 }
 .contact-page #ContactForm .button{
