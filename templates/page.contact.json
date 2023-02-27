@@ -46,7 +46,7 @@
           "type": "heading",
           "settings": {
             "heading": "Reach us",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "template--17859462922552__b282e15e-c63c-40b3-9003-70eaa179c349-167751143483de8191-1": {
@@ -74,11 +74,14 @@
         "template--17859462922552__b282e15e-c63c-40b3-9003-70eaa179c349-167751143483de8191-1",
         "template--17859462922552__b282e15e-c63c-40b3-9003-70eaa179c349-167751143483de8191-2"
       ],
+      "custom_css": [
+        "h2 ,p{color: black !important;}"
+      ],
       "settings": {
         "image": "shopify:\/\/shop_images\/quino-al-4SNUcHPiC8c-unsplash.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": true,
+        "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
         "desktop_content_alignment": "center",
