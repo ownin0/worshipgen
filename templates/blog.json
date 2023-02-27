@@ -1,1 +1,54 @@
-{"sections":{"main":{"type":"main-blog","settings":{"layout":"collage","show_image":true,"image_height":"medium","show_date":true,"show_author":false,"padding_top":36,"padding_bottom":36}}},"order":["main"]}
+{
+  "sections": {
+    "5c9f95d7-edd6-45ae-85af-a92a36903d3a": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17859463283000__5c9f95d7-edd6-45ae-85af-a92a36903d3a-1677514546a3ebaef9-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "<p>Our Articles<\/p>",
+            "heading_size": "hxl"
+          }
+        },
+        "template--17859463283000__5c9f95d7-edd6-45ae-85af-a92a36903d3a-1677514546a3ebaef9-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--17859463283000__5c9f95d7-edd6-45ae-85af-a92a36903d3a-1677514546a3ebaef9-0",
+        "template--17859463283000__5c9f95d7-edd6-45ae-85af-a92a36903d3a-1677514546a3ebaef9-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "main": {
+      "type": "main-blog",
+      "custom_css": [
+        "p {font-weight: normal !important;}",
+        "h1 {display: none;}"
+      ],
+      "settings": {
+        "layout": "grid",
+        "show_image": true,
+        "image_height": "large",
+        "show_date": true,
+        "show_author": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "5c9f95d7-edd6-45ae-85af-a92a36903d3a",
+    "main"
+  ]
+}
