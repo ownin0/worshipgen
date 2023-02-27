@@ -221,8 +221,15 @@
   color: white;
 }
 .article-card .card__inner{
-  border-radius: 20px;
+  border-radius: 20px !important;
   overflow: hidden;
+}
+.article-template__hero-adapt img{
+  border-radius: 20px !important;
+  overflow: hidden;
+}
+.article-template__hero-container{
+  max-width: 100% !important;
 }
 
 @media (max-width: 749px){
