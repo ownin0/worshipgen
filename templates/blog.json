@@ -6,6 +6,7 @@
         "template--17859463283000__5c9f95d7-edd6-45ae-85af-a92a36903d3a-1677514546a3ebaef9-0": {
           "type": "heading",
           "settings": {
+            "makeh1": true,
             "heading": "<p>Our Articles<\/p>",
             "heading_size": "hxl"
           }
@@ -27,7 +28,7 @@
         "color_scheme": "background-1",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 8
       }
     },
     "main": {
