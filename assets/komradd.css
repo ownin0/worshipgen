@@ -191,34 +191,6 @@
 .our-stores{
   margin: 50px 0;
 }
-.contact-page .footer{
-  margin-top: 0 !important;
-}
-.contact-page #ContactForm{
-  background: #ffffff00;
-  border-radius: 20px;
-  box-shadow: 0 0 20px #0000001a;
-  padding: 30px;
-  margin-top: 30px;
-}
-.contact-page #ContactForm .field{
-  border: 2px solid #0000000f;
-  margin: 15px 0;
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 0 10px #00000014;
-  color: black;
-  padding: 4px 10px;
-}
-.contact-page #ContactForm .field input,
-.contact-page #ContactForm .field::after,
-.contact-page #ContactForm .field::before,
-.contact-page #ContactForm {
-  color: black;
-}
-.contact-page #ContactForm .button{
-  
-}
 
 
 
