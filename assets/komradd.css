@@ -224,13 +224,18 @@
   border-radius: 20px !important;
   overflow: hidden;
 }
-.article-template__hero-adapt img{
-  border-radius: 20px !important;
-  overflow: hidden;
-}
 .article-template__hero-container{
   max-width: 100% !important;
 }
+
+
+
+
+
+
+
+
+
 
 @media (max-width: 749px){
   .custom-class-rating.rating .rating-star:before{
