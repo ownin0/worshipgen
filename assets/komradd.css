@@ -228,15 +228,6 @@
   max-width: 100% !important;
 }
 
-
-
-
-
-
-
-
-
-
 @media (max-width: 749px){
   .custom-class-rating.rating .rating-star:before{
     font-size: 18px !important;
