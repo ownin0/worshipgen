@@ -75,7 +75,7 @@
         "template--17859462922552__b282e15e-c63c-40b3-9003-70eaa179c349-167751143483de8191-2"
       ],
       "custom_css": [
-        "h2 ,p{color: black !important;}"
+        "h2,.body span {color: black !important;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/quino-al-4SNUcHPiC8c-unsplash.jpg",
