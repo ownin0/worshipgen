@@ -1,0 +1,69 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "a5756c45-8397-4627-b0ba-2957e3425b2c": {
+      "type": "image-banner",
+      "blocks": {
+        "template--18170199572792__a5756c45-8397-4627-b0ba-2957e3425b2c-1677554885cd3dc6b2-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "About Us",
+            "heading_size": "h0"
+          }
+        },
+        "template--18170199572792__a5756c45-8397-4627-b0ba-2957e3425b2c-1677554885cd3dc6b2-1": {
+          "type": "text",
+          "settings": {
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "template--18170199572792__a5756c45-8397-4627-b0ba-2957e3425b2c-1677554885cd3dc6b2-0",
+        "template--18170199572792__a5756c45-8397-4627-b0ba-2957e3425b2c-1677554885cd3dc6b2-1"
+      ],
+      "custom_css": [
+        "h2 {color: black !important;}",
+        ".banner__text span {color: black !important;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/kelly-sikkema-sDqT3iD6vSc-unsplash.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "small",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "accent-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "2a76d215-6f6c-4e56-8536-e8101fd3c075": {
+      "type": "custom-liquid",
+      "custom_css": [
+        "img {border-radius: 20px; width: fit-content; max-width: 90%; margin-left: auto; margin-right: auto; display: block;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"page-width\">\n<img class=\"about-image\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0710\/3512\/6072\/files\/be7b61_4885944cd8944e6abe6b5e07bc374b32_mv2.webp?v=1677555339\">\n<\/div>",
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "a5756c45-8397-4627-b0ba-2957e3425b2c",
+    "2a76d215-6f6c-4e56-8536-e8101fd3c075"
+  ]
+}

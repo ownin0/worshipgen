@@ -1,0 +1,210 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 28,
+        "padding_bottom": 28
+      }
+    },
+    "1106d1d9-8c80-424d-89bc-47b4fa0c19f6": {
+      "type": "rich-text",
+      "blocks": {
+        "template--18163443958072__1106d1d9-8c80-424d-89bc-47b4fa0c19f6-1677515499795f805c-0": {
+          "type": "heading",
+          "settings": {
+            "makeh1": true,
+            "heading": "<p>Frequently Asked Questions<\/p>",
+            "heading_size": "h1"
+          }
+        },
+        "template--18163443958072__1106d1d9-8c80-424d-89bc-47b4fa0c19f6-1677515499795f805c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--18163443958072__1106d1d9-8c80-424d-89bc-47b4fa0c19f6-1677515499795f805c-0",
+        "template--18163443958072__1106d1d9-8c80-424d-89bc-47b4fa0c19f6-1677515499795f805c-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 56,
+        "padding_bottom": 28
+      }
+    },
+    "00eab966-a2c2-4cc6-b2e3-2e548ae82096": {
+      "type": "collapsible-content",
+      "blocks": {
+        "template--18163443958072__00eab966-a2c2-4cc6-b2e3-2e548ae82096-16775155334413eacb-0": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Lorem ipsum dolor sit amet consectetur adipiscing elit",
+            "icon": "none",
+            "row_content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum sodales ultricies elit, rutrum ullamcorper augue scelerisque et. Aenean enim felis, euismod in viverra eget, elementum vitae ipsum. Donec vel tristique nulla, elementum malesuada turpis. Cras egestas egestas semper. Donec diam leo, vulputate eu commodo sit amet, hendrerit vitae nibh. Nunc dictum dignissim ullamcorper. In in lectus sapien.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18163443958072__00eab966-a2c2-4cc6-b2e3-2e548ae82096-16775155334413eacb-1": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "In at ligula nec nisl sagittis auctor nunc elementu",
+            "icon": "none",
+            "row_content": "<p>In at ligula nec nisl sagittis auctor. Nunc elementum laoreet metus. In ultricies molestie fermentum. Nullam ultricies faucibus magna, id placerat massa maximus in. Etiam non ultricies nisi. Curabitur tincidunt vehicula sem, nec efficitur nisl lacinia at. Phasellus commodo hendrerit ante in faucibus. Proin sit amet venenatis nulla. Nunc ut diam eu felis lobortis rhoncus.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18163443958072__00eab966-a2c2-4cc6-b2e3-2e548ae82096-16775155334413eacb-2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Ut semper elit a sollicitudin vehicula. Duis faucibus mi vitae",
+            "icon": "none",
+            "row_content": "<p>Ut semper elit a sollicitudin vehicula. Duis faucibus mi vitae est tincidunt pellentesque. Morbi faucibus ex ultricies quam suscipit, vel elementum odio tincidunt. Suspendisse et mattis ante, ac porta mi. Quisque non nunc pellentesque, accumsan justo at, suscipit velit. Maecenas eleifend dui non tortor tincidunt ullamcorper. Mauris elementum mauris id mauris ultrices tempor. Fusce mollis, lacus sed eleifend interdum, lectus nunc porttitor orci, in ultricies sem est ut orci. Maecenas nec leo fermentum, congue turpis id, accumsan odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse potenti. Praesent aliquam, massa eget sagittis fermentum, ipsum mi hendrerit ipsum, vitae pulvinar est ligula quis nisi.<\/p>",
+            "page": ""
+          }
+        },
+        "template--18163443958072__00eab966-a2c2-4cc6-b2e3-2e548ae82096-16775155334413eacb-3": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Phasellus a aliquet nulla. Etiam vitae massa ornar",
+            "icon": "none",
+            "row_content": "<p>Phasellus a aliquet nulla. Etiam vitae massa ornare, posuere arcu eu, tristique erat. Integer efficitur arcu massa, vel pharetra mauris sagittis convallis. Proin auctor pulvinar urna eu placerat. Mauris gravida metus a feugiat suscipit. Suspendisse potenti. Aliquam non molestie odio, a mollis diam. Praesent a purus vehicula, vestibulum sapien ut, lobortis neque. Duis et libero magna. Maecenas pellentesque, ex ac consequat commodo, ipsum dolor tristique turpis, imperdiet ultricies turpis justo ut leo.<\/p>",
+            "page": ""
+          }
+        },
+        "97dfc8d4-86c1-4c79-8559-676c0a21da07": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Cras tempus non quam quis semper aliquam porttitor eleifend enim",
+            "icon": "none",
+            "row_content": "<p>Cras tempus non quam quis semper. Aliquam porttitor eleifend enim vel mollis. Praesent quis dolor ac augue malesuada hendrerit vitae nec elit. Nulla ut lectus erat. Etiam venenatis ipsum eu elit tristique, sed interdum orci rhoncus. In vel nisl sed mauris dignissim tempus id nec ipsum. Donec dapibus, arcu quis egestas tristique, nisi metus euismod tellus, non mattis velit massa in sem. Donec viverra nibh ac scelerisque hendrerit. Suspendisse finibus finibus eros in efficitur.<\/p>",
+            "page": ""
+          }
+        },
+        "afc7a4f0-ed5a-4add-8f80-c592725a4d25": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Interdum et malesuada fames ac ante ipsum primis in faucibus",
+            "icon": "none",
+            "row_content": "<p>Interdum et malesuada fames ac ante ipsum primis in faucibus. Mauris euismod, felis ut ullamcorper vulputate, erat sapien vulputate neque, quis tincidunt enim felis pulvinar purus. Sed lobortis, nulla vitae blandit consequat, turpis nisi molestie arcu, vel gravida tellus justo sit amet velit. Morbi sapien ex, feugiat vitae nunc hendrerit, tincidunt gravida leo. Curabitur sollicitudin enim ut urna lobortis aliquam. Curabitur vitae nulla in odio tincidunt pretium a eget velit. Aenean vitae ante facilisis, mollis arcu nec, dignissim est. Fusce consequat massa sit amet sem ullamcorper, sit amet convallis enim scelerisque. Quisque bibendum vitae enim eget gravida. Quisque consectetur finibus sodales. Cras porttitor dolor ut quam feugiat commodo. Proin feugiat posuere magna quis porta. Cras commodo est placerat justo consectetur tincidunt.<\/p>",
+            "page": ""
+          }
+        },
+        "f9bbf4ba-38aa-4e30-8cc5-2e417d2770d2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Duis condimentum ultrices commodo fusce lobortis",
+            "icon": "none",
+            "row_content": "<p>Duis condimentum ultrices commodo. Fusce lobortis quis lectus quis placerat. Vivamus tempor ligula vitae enim tempor, sed tincidunt enim ornare. Pellentesque lacus dolor, tincidunt ac ex posuere, sollicitudin iaculis mauris. Donec in hendrerit turpis. Vestibulum tortor neque, varius eget maximus eu, auctor at quam. Maecenas vulputate commodo sollicitudin. Donec porttitor nulla at erat accumsan mollis sed a ante. Praesent mattis viverra quam. Pellentesque non dapibus felis. Praesent sollicitudin at felis ut egestas. Mauris facilisis ut leo id fermentum.<\/p>",
+            "page": ""
+          }
+        },
+        "4c62a354-fb56-484a-a987-522102d06ba2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Sed pellentesque erat cursus nisl accumsan",
+            "icon": "none",
+            "row_content": "<p>Sed pellentesque erat cursus nisl accumsan, vel semper eros semper. Vivamus ullamcorper odio commodo laoreet porttitor. Nunc aliquam rutrum ultrices. Nunc vehicula non enim at condimentum. Sed dapibus mauris erat, sit amet pellentesque ex congue non. Sed porta risus nulla, eu faucibus velit auctor sed. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras tristique egestas aliquet. Praesent scelerisque ex lorem, ac faucibus nisl finibus at. Vestibulum ut mattis purus, sed vulputate ipsum. Curabitur tincidunt aliquam fringilla. Nulla auctor neque vitae enim porta, sed mollis dui tincidunt. Ut at viverra lacus. Sed sodales ultrices sapien vel placerat. Nam vehicula nisi vitae urna pharetra, venenatis scelerisque sapien lacinia. Suspendisse porta accumsan suscipit.<\/p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18163443958072__00eab966-a2c2-4cc6-b2e3-2e548ae82096-16775155334413eacb-0",
+        "template--18163443958072__00eab966-a2c2-4cc6-b2e3-2e548ae82096-16775155334413eacb-1",
+        "template--18163443958072__00eab966-a2c2-4cc6-b2e3-2e548ae82096-16775155334413eacb-2",
+        "template--18163443958072__00eab966-a2c2-4cc6-b2e3-2e548ae82096-16775155334413eacb-3",
+        "97dfc8d4-86c1-4c79-8559-676c0a21da07",
+        "afc7a4f0-ed5a-4add-8f80-c592725a4d25",
+        "f9bbf4ba-38aa-4e30-8cc5-2e417d2770d2",
+        "4c62a354-fb56-484a-a987-522102d06ba2"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "color_scheme": "background-1",
+        "container_color_scheme": "background-2",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 72
+      }
+    },
+    "5a2d87bb-12ba-45f0-b115-0188ed8b7df3": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18163443958072__5a2d87bb-12ba-45f0-b115-0188ed8b7df3-1677515749dd946689-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IconlyLightChat.png",
+            "title": "Contact Us",
+            "text": "",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "template--18163443958072__5a2d87bb-12ba-45f0-b115-0188ed8b7df3-1677515749dd946689-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IconlyLightNotification.png",
+            "title": "Keep in Touch",
+            "text": "",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        },
+        "template--18163443958072__5a2d87bb-12ba-45f0-b115-0188ed8b7df3-1677515749dd946689-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IconlyLightBuy.png",
+            "title": "Explore Products",
+            "text": "",
+            "link_label": "Learn more",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--18163443958072__5a2d87bb-12ba-45f0-b115-0188ed8b7df3-1677515749dd946689-0",
+        "template--18163443958072__5a2d87bb-12ba-45f0-b115-0188ed8b7df3-1677515749dd946689-1",
+        "template--18163443958072__5a2d87bb-12ba-45f0-b115-0188ed8b7df3-1677515749dd946689-2"
+      ],
+      "custom_css": [
+        ".multicolumn-card__image-wrapper {max-width: 100px;}"
+      ],
+      "settings": {
+        "add-class-parent": "",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 60,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "1106d1d9-8c80-424d-89bc-47b4fa0c19f6",
+    "00eab966-a2c2-4cc6-b2e3-2e548ae82096",
+    "5a2d87bb-12ba-45f0-b115-0188ed8b7df3"
+  ]
+}
