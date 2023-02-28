@@ -35,6 +35,7 @@
         ".banner__text span {color: black !important;}"
       ],
       "settings": {
+        "add-class-parent": "hero-about",
         "image": "shopify:\/\/shop_images\/kelly-sikkema-sDqT3iD6vSc-unsplash.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
