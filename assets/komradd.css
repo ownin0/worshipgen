@@ -232,7 +232,9 @@
 .about-page #insta-feed a:nth-of-type(n+6) {
   display: none;
 }
-
+#insta-feed h2{
+  font-size: 30px !important;
+}
 
 
 
