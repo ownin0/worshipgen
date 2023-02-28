@@ -227,10 +227,7 @@
 .article-template__hero-container{
   max-width: 100% !important;
 }
-.hero-about:after{
-  opacity: 0.3;
-  background: white;
-}
+
 
 
 
@@ -290,5 +287,9 @@
   .contact-page .banner__media:after{
     background: #ffffff !important;
     opacity: 0.4 !important;
+  }
+  .hero-about:after{
+    opacity: 0.3 !important;
+    background: white !important;
   }
 }
