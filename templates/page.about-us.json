@@ -48,45 +48,11 @@
         "show_text_below": true
       }
     },
-    "dde4d73f-3df2-4e11-b794-f14138a10087": {
-      "type": "rich-text",
-      "blocks": {
-        "template--18170199572792__dde4d73f-3df2-4e11-b794-f14138a10087-16775548351a6ae02b-0": {
-          "type": "heading",
-          "settings": {
-            "makeh1": false,
-            "heading": "<p>Talk about your brand<\/p>",
-            "heading_size": "h1"
-          }
-        },
-        "template--18170199572792__dde4d73f-3df2-4e11-b794-f14138a10087-16775548351a6ae02b-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        },
-        "template--18170199572792__dde4d73f-3df2-4e11-b794-f14138a10087-16775548351a6ae02b-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Button label",
-            "button_link": "",
-            "button_style_secondary": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18170199572792__dde4d73f-3df2-4e11-b794-f14138a10087-16775548351a6ae02b-0",
-        "template--18170199572792__dde4d73f-3df2-4e11-b794-f14138a10087-16775548351a6ae02b-1",
-        "template--18170199572792__dde4d73f-3df2-4e11-b794-f14138a10087-16775548351a6ae02b-2"
-      ],
+    "2a76d215-6f6c-4e56-8536-e8101fd3c075": {
+      "type": "custom-liquid",
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "custom_liquid": "<img class=\"about-image\" src=\"https:\/\/cdn.shopify.com\/s\/files\/1\/0710\/3512\/6072\/files\/be7b61_4885944cd8944e6abe6b5e07bc374b32_mv2.webp?v=1677555339\">",
         "color_scheme": "background-1",
-        "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
       }
@@ -95,6 +61,6 @@
   "order": [
     "main",
     "a5756c45-8397-4627-b0ba-2957e3425b2c",
-    "dde4d73f-3df2-4e11-b794-f14138a10087"
+    "2a76d215-6f6c-4e56-8536-e8101fd3c075"
   ]
 }
