@@ -228,9 +228,11 @@
   max-width: 100% !important;
 }
 
-.home-page #insta-feed a:nth-of-type(n+6),
-.about-page #insta-feed a:nth-of-type(n+6) {
+.home-page #insta-feed a:nth-of-type(n+6) {
   display: none;
+}
+.about-page #insta-feed a:nth-of-type(n+11){
+
 }
 #insta-feed h2{
   font-size: 30px !important;
