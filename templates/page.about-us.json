@@ -113,6 +113,7 @@
     },
     "678353e2-018d-4cdd-ba56-c101d0206d6d": {
       "type": "featured-collection",
+      "disabled": true,
       "settings": {
         "title": "Product Recommendation",
         "add-class-parent": "",
