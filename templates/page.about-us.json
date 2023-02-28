@@ -14,8 +14,8 @@
         "template--18170199572792__a5756c45-8397-4627-b0ba-2957e3425b2c-1677554885cd3dc6b2-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h1"
+            "heading": "About Us",
+            "heading_size": "h0"
           }
         },
         "template--18170199572792__a5756c45-8397-4627-b0ba-2957e3425b2c-1677554885cd3dc6b2-1": {
@@ -24,32 +24,20 @@
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
           }
-        },
-        "template--18170199572792__a5756c45-8397-4627-b0ba-2957e3425b2c-1677554885cd3dc6b2-2": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "Button label",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
         "template--18170199572792__a5756c45-8397-4627-b0ba-2957e3425b2c-1677554885cd3dc6b2-0",
-        "template--18170199572792__a5756c45-8397-4627-b0ba-2957e3425b2c-1677554885cd3dc6b2-1",
-        "template--18170199572792__a5756c45-8397-4627-b0ba-2957e3425b2c-1677554885cd3dc6b2-2"
+        "template--18170199572792__a5756c45-8397-4627-b0ba-2957e3425b2c-1677554885cd3dc6b2-1"
       ],
       "custom_css": [
-        "h2{color: black !important}",
-        "p span{color: black !imporrtant;}"
+        "h2 {color: black !important;}",
+        "p span {color: black !imporrtant;}"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/kelly-sikkema-sDqT3iD6vSc-unsplash.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": false,
