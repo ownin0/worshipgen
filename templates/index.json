@@ -184,10 +184,55 @@
         "accessibility_info": "Slideshow about our brand"
       }
     },
+    "9bcab6a2-a569-4769-9e23-4862b7a08258": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17859463414072__9bcab6a2-a569-4769-9e23-4862b7a08258-1677660076b75c6b39-0": {
+          "type": "heading",
+          "settings": {
+            "makeh1": true,
+            "heading": "<p>FEATURED PRODUCTS<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "template--17859463414072__9bcab6a2-a569-4769-9e23-4862b7a08258-1677660076b75c6b39-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--17859463414072__9bcab6a2-a569-4769-9e23-4862b7a08258-1677660076b75c6b39-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17859463414072__9bcab6a2-a569-4769-9e23-4862b7a08258-1677660076b75c6b39-0",
+        "template--17859463414072__9bcab6a2-a569-4769-9e23-4862b7a08258-1677660076b75c6b39-1",
+        "template--17859463414072__9bcab6a2-a569-4769-9e23-4862b7a08258-1677660076b75c6b39-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 8
+      }
+    },
     "b0a7e598-9da0-4501-86a7-a4555f3bf335": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured collection",
+        "title": "",
         "add-class-parent": "",
         "heading_size": "h0",
         "description": "",
@@ -196,7 +241,7 @@
         "collection": "our-best-seller",
         "products_to_show": 12,
         "columns_desktop": 4,
-        "full_width": false,
+        "full_width": true,
         "show_view_all": true,
         "view_all_style": "solid",
         "enable_desktop_slider": false,
@@ -207,7 +252,7 @@
         "show_rating": true,
         "enable_quick_add": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -268,14 +313,14 @@
           "type": "heading",
           "settings": {
             "makeh1": false,
-            "heading": "<p>Talk about your brand<\/p>",
+            "heading": "<p>WORSHP GENERATION<\/p>",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>is a brand of Christian merchandise that seeks to make worship a lifestyle. We primarily serve people who are proud of their faith and who desire to proclaim God’s love. We hope that through our merchandise, people will have a means by which they can express their passion for Jesus and in the process, tell the world about Him. See you in the following stores and together, let's <a href=\"https:\/\/www.facebook.com\/hashtag\/makeworshipalifestyle?source=note\" target=\"_blank\"><span style=\"text-decoration:underline\"><strong>#MakeWorshipALifestyle<\/strong><\/span><\/a>!<\/p>"
           }
         }
       },
@@ -288,7 +333,7 @@
         "content_alignment": "center",
         "color_scheme": "background-1",
         "full_width": true,
-        "padding_top": 40,
+        "padding_top": 24,
         "padding_bottom": 0
       }
     },
@@ -447,6 +492,7 @@
     "2a3a1e37-3295-405d-b64e-e1e4e13221a2",
     "d58a21bd-5c3e-42b8-8532-cd36b3c898b4",
     "5d7d8494-ccbe-4497-8eca-c77c0c73ee71",
+    "9bcab6a2-a569-4769-9e23-4862b7a08258",
     "b0a7e598-9da0-4501-86a7-a4555f3bf335",
     "image_banner",
     "rich_text",
