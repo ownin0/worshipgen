@@ -58,9 +58,9 @@
     "2a3a1e37-3295-405d-b64e-e1e4e13221a2": {
       "type": "featured-collection",
       "settings": {
-        "title": "Lorem ipsum dolor sit amet",
+        "title": "",
         "add-class-parent": "collection-homepage",
-        "heading_size": "h1",
+        "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -89,7 +89,7 @@
         "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-0": {
           "type": "heading",
           "settings": {
-            "heading": "Lorem ipsum dolor<br><i><span>Lorem ipsum dolor sit amet <\/span><\/i>",
+            "heading": "TEAM JESUS SERIES",
             "heading_size": "h1"
           }
         },
@@ -103,7 +103,7 @@
         "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-2": {
           "type": "button",
           "settings": {
-            "button_label": "VIEW COLLECTION",
+            "button_label": "SHOP NOW",
             "button_link": "shopify:\/\/collections\/our-best-seller"
           }
         }
@@ -120,11 +120,11 @@
         "desktop_image_width": "medium",
         "layout": "image_first",
         "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
+        "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
-        "padding_top": 36,
+        "padding_top": 12,
         "padding_bottom": 0
       }
     },
@@ -189,9 +189,9 @@
       "settings": {
         "title": "Featured collection",
         "add-class-parent": "",
-        "heading_size": "h1",
+        "heading_size": "h0",
         "description": "",
-        "show_description": false,
+        "show_description": true,
         "description_style": "body",
         "collection": "our-best-seller",
         "products_to_show": 12,
@@ -248,6 +248,7 @@
         "button"
       ],
       "settings": {
+        "add-class-parent": "",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
@@ -266,6 +267,7 @@
         "heading": {
           "type": "heading",
           "settings": {
+            "makeh1": false,
             "heading": "<p>Talk about your brand<\/p>",
             "heading_size": "h1"
           }
@@ -411,6 +413,7 @@
         "column3"
       ],
       "settings": {
+        "add-class-parent": "",
         "title": "",
         "heading_size": "h1",
         "image_width": "third",
