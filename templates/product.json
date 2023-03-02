@@ -66,8 +66,8 @@
           "settings": {
             "heading": "Size Guide",
             "icon": "ruler",
-            "content": "<p><a href=\"\/pages\/size-guide\" target=\"_blank\" title=\"\/pages\/size-guide\">Click here<\/a> to open the size guide page<\/p>",
-            "page": ""
+            "content": "<p><a href=\"https:\/\/worshipgen.myshopify.com\/pages\/size-chart\" target=\"_blank\" title=\"https:\/\/worshipgen.myshopify.com\/pages\/size-chart\">Click here<\/a> to open the size guide page<\/p>",
+            "page": "size-chart"
           }
         },
         "collapsible-row-3": {
@@ -155,6 +155,7 @@
         "column-1"
       ],
       "settings": {
+        "add-class-parent": "",
         "title": "",
         "heading_size": "h2",
         "image_width": "full",
@@ -214,6 +215,7 @@
 
       ],
       "settings": {
+        "add-class-parent": "",
         "title": "Trending Collections",
         "heading_size": "h1",
         "image_width": "full",
