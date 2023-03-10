@@ -49,7 +49,7 @@
             "button_label": "Button label",
             "link": "shopify:\/\/collections\/unisex",
             "button_style_secondary": false,
-            "box_align": "middle-right",
+            "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
