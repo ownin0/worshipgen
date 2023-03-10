@@ -115,12 +115,12 @@
     "social_youtube_link": "",
     "social_vimeo_link": "",
     "predictive_search_enabled": true,
-    "predictive_search_show_vendor": false,
-    "predictive_search_show_price": false,
+    "predictive_search_show_vendor": true,
+    "predictive_search_show_price": true,
     "favicon": "shopify:\/\/shop_images\/favicon-min.png",
     "currency_code_enabled": true,
     "cart_type": "drawer",
-    "show_vendor": false,
+    "show_vendor": true,
     "show_cart_note": false,
     "sections": {
       "announcement-bar": {
