@@ -39,16 +39,16 @@
       ],
       "settings": {
         "add-class-parent": "",
-        "image": "shopify:\/\/shop_images\/1_3.jpg",
+        "image": "shopify:\/\/shop_images\/1.1.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
-        "show_text_box": true,
+        "show_text_box": false,
         "desktop_content_alignment": "center",
         "color_scheme": "background-1",
         "mobile_content_alignment": "center",
-        "stack_images_on_mobile": true,
+        "stack_images_on_mobile": false,
         "show_text_below": true
       }
     },
