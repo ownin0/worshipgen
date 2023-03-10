@@ -1,10 +1,63 @@
 {
   "sections": {
+    "2c766579-de2e-4931-8b94-e523a5b71d57": {
+      "type": "image-banner",
+      "blocks": {
+        "template--17859463414072__2c766579-de2e-4931-8b94-e523a5b71d57-16784345141e833ada-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--17859463414072__2c766579-de2e-4931-8b94-e523a5b71d57-16784345141e833ada-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--17859463414072__2c766579-de2e-4931-8b94-e523a5b71d57-16784345141e833ada-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17859463414072__2c766579-de2e-4931-8b94-e523a5b71d57-16784345141e833ada-0",
+        "template--17859463414072__2c766579-de2e-4931-8b94-e523a5b71d57-16784345141e833ada-1",
+        "template--17859463414072__2c766579-de2e-4931-8b94-e523a5b71d57-16784345141e833ada-2"
+      ],
+      "settings": {
+        "add-class-parent": "",
+        "image": "shopify:\/\/shop_images\/1_3.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
     "f2096d7b-2167-4e76-98b4-091614ed5655": {
       "type": "slideshow",
       "blocks": {
         "template--17859463414072__f2096d7b-2167-4e76-98b4-091614ed5655-167535616499fe0ca4-1": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/1_3.jpg",
             "heading": "Image slide",
@@ -507,6 +560,7 @@
     }
   },
   "order": [
+    "2c766579-de2e-4931-8b94-e523a5b71d57",
     "f2096d7b-2167-4e76-98b4-091614ed5655",
     "2a3a1e37-3295-405d-b64e-e1e4e13221a2",
     "d58a21bd-5c3e-42b8-8532-cd36b3c898b4",
