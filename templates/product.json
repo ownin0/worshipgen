@@ -75,7 +75,7 @@
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.<\/p>",
+            "content": "<ul><li>Wash separately in mild detergent<\/li><li>Do not soak<\/li><li>Do not bleach<\/li><li>Do not tumble dry<\/li><li>Flat dry<\/li><li>Cool iron on reverse<\/li><\/ul>",
             "page": ""
           }
         },
