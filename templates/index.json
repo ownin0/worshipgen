@@ -6,14 +6,14 @@
         "template--17859463414072__f2096d7b-2167-4e76-98b4-091614ed5655-167535616499fe0ca4-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1.1.jpg",
+            "image": "shopify:\/\/shop_images\/BANNER_copy_08fcba6c-08e7-4c7d-bbbe-782bd7da6fb9.jpg",
             "heading": "Image slide",
             "heading_size": "h1",
             "subheading": "Tell your brand's story through images",
             "button_label": "Button label",
             "link": "shopify:\/\/collections",
             "button_style_secondary": false,
-            "box_align": "middle-center",
+            "box_align": "middle-right",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
