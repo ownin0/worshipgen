@@ -8,7 +8,7 @@
           "disabled": true,
           "settings": {
             "heading": "",
-            "heading_size": "h1"
+            "heading_size": "h0"
           }
         },
         "template--17859463414072__2c766579-de2e-4931-8b94-e523a5b71d57-16784345141e833ada-1": {
@@ -41,7 +41,7 @@
         "add-class-parent": "",
         "image": "shopify:\/\/shop_images\/1_3.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
