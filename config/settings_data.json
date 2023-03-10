@@ -1,9 +1,9 @@
 {
   "current": {
-    "colors_solid_button_labels": "#ffffff",
+    "colors_solid_button_labels": "#4d4d4d",
     "colors_accent_1": "#b1b1b1",
     "gradient_accent_1": "linear-gradient(51deg, rgba(83, 158, 11, 1), rgba(105, 158, 3, 1) 15%, rgba(33, 249, 150, 1) 85%)",
-    "colors_accent_2": "#03989e",
+    "colors_accent_2": "#f7f4eb",
     "gradient_accent_2": "",
     "colors_text": "#121212",
     "colors_outline_button_labels": "#121212",
@@ -145,7 +145,7 @@
       "header": {
         "type": "header",
         "settings": {
-          "color_scheme": "background-1",
+          "color_scheme": "accent-2",
           "logo": "shopify:\/\/shop_images\/main_logo-min.png",
           "logo_width": 130,
           "logo_position": "middle-left",
