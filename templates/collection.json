@@ -3,6 +3,7 @@
     "9679838f-bb8f-4e97-9cfb-ec17d41a3b03": {
       "type": "image-banner",
       "settings": {
+        "add-class-parent": "",
         "image": "{{ collection.metafields.custom.top_banner.value }}",
         "image_overlay_opacity": 0,
         "image_height": "medium",
@@ -19,9 +20,9 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
-        "color_scheme": "background-1"
+        "color_scheme": "accent-2"
       }
     },
     "product-grid": {
