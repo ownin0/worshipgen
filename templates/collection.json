@@ -4,7 +4,8 @@
       "type": "image-banner",
       "settings": {
         "add-class-parent": "",
-        "image": "{{ collection.metafields.custom.top_banner.value }}",
+        "image": "{{ shop.brand.cover_image }}",
+        "image_2": "shopify:\/\/shop_images\/BANNER_copy_08fcba6c-08e7-4c7d-bbbe-782bd7da6fb9.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
