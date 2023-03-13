@@ -449,7 +449,7 @@
         "template--17859463414072__2a48034a-3fc7-4bdc-b009-90b87b53d9bb-16754357536e281eb1-2": {
           "type": "featured_collection",
           "settings": {
-            "collection": "team-jesus"
+            "collection": "collared-shirt"
           }
         }
       },
@@ -488,6 +488,7 @@
     },
     "multicolumn": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
