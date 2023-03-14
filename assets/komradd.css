@@ -263,7 +263,9 @@
 #swym-wishlist-render-container div,
 #swym-wishlist-render-container,
 .swym-details span,
-.swym-details{
+.swym-details,
+.swym-details-container a,
+.swym-details-container{
   font-family: 'Montserrat' !important;
 }
 
