@@ -192,7 +192,7 @@
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/8_2.jpg",
-            "title": "Unisex",
+            "title": "",
             "text": "",
             "link_label": "Shop All",
             "link": "shopify:\/\/collections\/t-shirts"
@@ -212,14 +212,14 @@
         "title": "Trending Collections",
         "heading_size": "h1",
         "image_width": "full",
-        "image_ratio": "adapt",
+        "image_ratio": "portrait",
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
         "color_scheme": "accent-2",
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "swipe_on_mobile": true,
         "padding_top": 36,
         "padding_bottom": 36
