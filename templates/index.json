@@ -127,7 +127,7 @@
         "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-0": {
           "type": "heading",
           "settings": {
-            "heading": "TEAM JESUS SERIES",
+            "heading": "LOVE GOD HATE SIN SERIES",
             "heading_size": "h1"
           }
         },
@@ -158,7 +158,7 @@
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
-        "desktop_content_position": "top",
+        "desktop_content_position": "middle",
         "desktop_content_alignment": "center",
         "content_layout": "no-overlap",
         "color_scheme": "accent-2",
