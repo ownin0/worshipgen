@@ -155,7 +155,6 @@
   align-items: flex-start;
 }
 .icon-container-foot img{
-  filter: invert(1);
   border: none !important;
 }
 .icon-container-foot p{
