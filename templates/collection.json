@@ -31,7 +31,7 @@
       "settings": {
         "products_per_page": 12,
         "columns_desktop": 4,
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": true,
