@@ -477,6 +477,9 @@
         "template--17859463414072__2a48034a-3fc7-4bdc-b009-90b87b53d9bb-16754357536e281eb1-1",
         "template--17859463414072__2a48034a-3fc7-4bdc-b009-90b87b53d9bb-16754357536e281eb1-2"
       ],
+      "custom_css": [
+        ".title-wrapper-with-link {justify-content: center;}"
+      ],
       "settings": {
         "title": "Collections",
         "heading_size": "h1",
