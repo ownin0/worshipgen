@@ -7,7 +7,7 @@
         "image": "{{ shop.brand.cover_image }}",
         "image_2": "shopify:\/\/shop_images\/3_1.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
+        "image_height": "small",
         "adapt_height_first_image": false,
         "desktop_content_position": "middle-center",
         "show_text_box": true,
