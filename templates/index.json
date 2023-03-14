@@ -154,7 +154,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/DSCF8518.jpg",
-        "add-class-parent": "imagewith-text-custom",
+        "add-class-parent": "imagewith-text-custom beige-bg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -199,7 +199,7 @@
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/4.jpg",
-        "add-class-parent": "",
+        "add-class-parent": "beige-bg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
