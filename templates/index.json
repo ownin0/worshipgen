@@ -102,7 +102,7 @@
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "tank-tops",
+        "collection": "long-tees",
         "products_to_show": 8,
         "columns_desktop": 5,
         "full_width": true,
@@ -188,7 +188,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/tank-tops"
+            "button_link": "shopify:\/\/collections\/long-tees"
           }
         }
       },
