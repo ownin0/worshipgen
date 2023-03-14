@@ -13,6 +13,7 @@
       "blocks": {
         "template--18170199572792__a5756c45-8397-4627-b0ba-2957e3425b2c-1677554885cd3dc6b2-0": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Worship Generation",
             "heading_size": "h0"
@@ -20,6 +21,7 @@
         },
         "template--18170199572792__a5756c45-8397-4627-b0ba-2957e3425b2c-1677554885cd3dc6b2-1": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam",
             "text_style": "body"
@@ -36,7 +38,7 @@
       ],
       "settings": {
         "add-class-parent": "hero-about",
-        "image": "shopify:\/\/shop_images\/kelly-sikkema-sDqT3iD6vSc-unsplash.jpg",
+        "image": "shopify:\/\/shop_images\/Landscape_Logo.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "adapt_height_first_image": false,
