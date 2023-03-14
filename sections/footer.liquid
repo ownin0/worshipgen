@@ -327,7 +327,7 @@
         {%- endif -%}
       </div>
       <div class="footer__column footer__column--info">
-        {% assign payment_icons_available = 'visa,master,paypal,gcash,bpi,rcbc,cod' | split: ',' %}
+        {% assign payment_icons_available = 'visa,master,paypal,gcash,bpi,rcbc' | split: ',' %}
         {%- if section.settings.payment_enable -%}
           <div class="footer__payment">
             <span class="visually-hidden">{{ 'sections.footer.payment' | t }}</span>
