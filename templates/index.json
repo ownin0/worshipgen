@@ -569,8 +569,8 @@
 
       ],
       "settings": {
-        "heading_size": 30,
-        "feed_width": 100,
+        "heading_size": 28,
+        "feed_width": 75,
         "html_area": ""
       }
     },
