@@ -249,6 +249,18 @@
   margin-left: auto;
   margin-right: auto;
 }
+#swym-wishlist-render-container p,
+#swym-wishlist-render-container h1,
+#swym-wishlist-render-container h2,
+#swym-wishlist-render-container h3,
+#swym-wishlist-render-container h4,
+#swym-wishlist-render-container h5,
+#swym-wishlist-render-container h6,
+#swym-wishlist-render-container span,
+#swym-wishlist-render-container li,
+#swym-wishlist-render-container a{
+  font-family: 'Montserrat';
+}
 
 
 @media (max-width: 749px){
