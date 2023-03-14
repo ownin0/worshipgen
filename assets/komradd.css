@@ -71,7 +71,7 @@
 }
 .slideshow .button,
 .collection-homepage .button{
-  background: #03989E;
+  background: #4d4d4d;
   border: none;
   color: white;
   border-radius: 10px;
@@ -217,7 +217,7 @@
   color: black;
 }
 .contact-page #ContactForm .button{
-  background: #03989E;
+  background: #4d4d4d;
   color: white;
 }
 .article-card .card__inner{
@@ -241,7 +241,6 @@
 #shopify-section-template--17859463414072__fac397bc-0ae7-41e5-b2f2-341844a00f76{
   background: #F7F4EB !important;
 }
-
 
 
 @media (max-width: 749px){
