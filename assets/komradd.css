@@ -241,6 +241,11 @@
 #shopify-section-template--17859463414072__fac397bc-0ae7-41e5-b2f2-341844a00f76{
   background: #F7F4EB !important;
 }
+.quick-add .button{
+  background: #4d4d4d !important;
+  color: white !important;
+}
+
 
 
 @media (max-width: 749px){
