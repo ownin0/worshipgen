@@ -2,6 +2,7 @@
   "sections": {
     "9679838f-bb8f-4e97-9cfb-ec17d41a3b03": {
       "type": "image-banner",
+      "disabled": true,
       "settings": {
         "add-class-parent": "",
         "image": "{{ shop.brand.cover_image }}",
