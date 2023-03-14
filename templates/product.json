@@ -13,13 +13,6 @@
             "stars_text_empty": "No Reviews"
           }
         },
-        "8a153201-9573-461f-bbcd-9cf038366cf7": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.custom.product_type | metafield_text }}",
-            "text_style": "uppercase"
-          }
-        },
         "title": {
           "type": "title",
           "settings": {
@@ -88,7 +81,6 @@
       },
       "block_order": [
         "4dad4d68-3cdd-4df2-8338-8a4e0a6bb3b8",
-        "8a153201-9573-461f-bbcd-9cf038366cf7",
         "title",
         "price",
         "variant_picker",
