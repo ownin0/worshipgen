@@ -146,7 +146,7 @@
         "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-0": {
           "type": "heading",
           "settings": {
-            "heading": "LOVE GOD HATE SIN SERIES",
+            "heading": "THE DAILY BRAD",
             "heading_size": "h1"
           }
         },
@@ -162,7 +162,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/t-shirts"
+            "button_link": "shopify:\/\/collections\/the-daily-brad"
           }
         }
       },
@@ -172,7 +172,7 @@
         "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Y1_27c83e62-a352-4f5a-bfbd-967227c42b6d.jpg",
+        "image": "shopify:\/\/shop_images\/TDB.jpg",
         "add-class-parent": "imagewith-text-custom beige-bg",
         "height": "adapt",
         "desktop_image_width": "medium",
