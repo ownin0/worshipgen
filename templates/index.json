@@ -102,9 +102,9 @@
         "335eceb3-6d76-484d-8147-d04390af00e3"
       ],
       "settings": {
-        "layout": "grid",
+        "layout": "full_bleed",
         "add-class-parent": "",
-        "slide_height": "small",
+        "slide_height": "adapt_image",
         "slider_visual": "dots",
         "auto_rotate": true,
         "change_slides_speed": 3,
