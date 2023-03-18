@@ -21,6 +21,24 @@
             "text_alignment_mobile": "center"
           }
         },
+        "2d83e673-a102-4c0c-a7e8-54b2f169253c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Ban_4.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/unisex",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "template--17859463414072__f2096d7b-2167-4e76-98b4-091614ed5655-167535616499fe0ca4-1": {
           "type": "slide",
           "settings": {
@@ -57,24 +75,6 @@
             "text_alignment_mobile": "center"
           }
         },
-        "2d83e673-a102-4c0c-a7e8-54b2f169253c": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Ban_4.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/collections\/unisex",
-            "button_style_secondary": true,
-            "box_align": "middle-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "text_alignment_mobile": "center"
-          }
-        },
         "335eceb3-6d76-484d-8147-d04390af00e3": {
           "type": "slide",
           "settings": {
@@ -96,9 +96,9 @@
       },
       "block_order": [
         "798fbeed-17cb-4cdc-a859-7416db6c8cc5",
+        "2d83e673-a102-4c0c-a7e8-54b2f169253c",
         "template--17859463414072__f2096d7b-2167-4e76-98b4-091614ed5655-167535616499fe0ca4-1",
         "template--17859463414072__f2096d7b-2167-4e76-98b4-091614ed5655-167535616499fe0ca4-0",
-        "2d83e673-a102-4c0c-a7e8-54b2f169253c",
         "335eceb3-6d76-484d-8147-d04390af00e3"
       ],
       "settings": {
