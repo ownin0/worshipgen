@@ -74,13 +74,32 @@
             "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
+        },
+        "335eceb3-6d76-484d-8147-d04390af00e3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/15-min.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/collections\/the-daily-brad",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
         }
       },
       "block_order": [
         "798fbeed-17cb-4cdc-a859-7416db6c8cc5",
         "template--17859463414072__f2096d7b-2167-4e76-98b4-091614ed5655-167535616499fe0ca4-1",
         "template--17859463414072__f2096d7b-2167-4e76-98b4-091614ed5655-167535616499fe0ca4-0",
-        "2d83e673-a102-4c0c-a7e8-54b2f169253c"
+        "2d83e673-a102-4c0c-a7e8-54b2f169253c",
+        "335eceb3-6d76-484d-8147-d04390af00e3"
       ],
       "settings": {
         "layout": "full_bleed",
