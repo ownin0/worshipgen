@@ -190,8 +190,8 @@
             "type": "text",
             "settings": {
               "heading": "Stay up to date",
-              "subtext": "<p>Stay connected with our audience and be informed of new collections and news.<\/p>",
-              "text-phone": "09176246807",
+              "subtext": "",
+              "text-phone": "",
               "text-email": "info@worshipgen.com"
             }
           }
