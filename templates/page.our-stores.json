@@ -81,16 +81,6 @@
             "link": ""
           }
         },
-        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/be7b61_a3d3866457e941518800bb6914aef2a2_mv2.webp",
-            "title": "Alabang Town",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-2": {
           "type": "column",
           "settings": {
@@ -111,41 +101,11 @@
             "link": ""
           }
         },
-        "400afd7c-6a10-42f5-b589-68aeb743d340": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/be7b61_00f26175e6844d8b9192223abd340f89_mv2.webp",
-            "title": "Trinoma Mall",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "d37175a2-fcf2-4cc6-8eaf-fc8ad93c3475": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/be7b61_b87aa2a66dc2455eb8c28e292ed75251_mv2.webp",
-            "title": "The Distruct Imus",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "7b16a9cb-82be-44e9-94cb-2cd3eb76cf47": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/be7b61_92bf1e1b54104b0db166c9f1cef7ac90_mv2.webp",
             "title": "Island City Mall",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "363fe3d8-ef24-4f01-b69a-565224d3e38f": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/be7b61_eaae2d8fe1554acfbecaa6c90d6b6460_mv2.webp",
-            "title": "Glorietta 3",
             "text": "",
             "link_label": "",
             "link": ""
@@ -164,13 +124,9 @@
       },
       "block_order": [
         "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-0",
-        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-1",
         "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-2",
         "c79128b0-befc-46d1-9d53-95d9495efc20",
-        "400afd7c-6a10-42f5-b589-68aeb743d340",
-        "d37175a2-fcf2-4cc6-8eaf-fc8ad93c3475",
         "7b16a9cb-82be-44e9-94cb-2cd3eb76cf47",
-        "363fe3d8-ef24-4f01-b69a-565224d3e38f",
         "76c21188-0fa1-4fe6-bae1-a1b8d12c281f"
       ],
       "custom_css": [
