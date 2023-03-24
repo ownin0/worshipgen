@@ -189,9 +189,9 @@
           "footer-2": {
             "type": "text",
             "settings": {
-              "heading": "Stay up to date",
+              "heading": "Contact Us",
               "subtext": "",
-              "text-phone": "",
+              "text-phone": "09567494354",
               "text-email": "info@worshipgen.com"
             }
           }
