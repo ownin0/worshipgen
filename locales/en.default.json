@@ -324,7 +324,7 @@
       "edit_address": "Edit address",
       "first_name": "First name",
       "last_name": "Last name",
-      "company": "Company",
+      "company": "Barangay",
       "address1": "Address 1",
       "address2": "Address 2",
       "city": "City",
@@ -423,6 +423,25 @@
       "expired": "Expired",
       "copy_code_success": "Code copied successfully",
       "print_gift_card": "Print"
+    }
+  },
+  "shopify": {
+    "checkout": {
+      "contact": {
+        "company_label": "Barangay",
+        "optional_company_label": "Barangay"
+      },
+      "field_errors": {
+        "address_company_blank": "Enter your barangay",
+        "address_company_too_long": "Barangay is too loong",
+        "address_company_contains_emojis": "Barangay cannot contains emojis",
+        "address_company_contains_html_tags": "Barangay cannot contains HTML tags"
+      }
+    }
+  },
+  "customer_accounts": {
+    "order_details": {
+      "company": "Barangay"
     }
   }
 }
