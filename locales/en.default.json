@@ -424,16 +424,5 @@
       "copy_code_success": "Code copied successfully",
       "print_gift_card": "Print"
     }
-  },
-  "shopify": {
-    "checkout": {
-      "contact": {
-        "address2_label": "Barangay",
-        "optional_address2_label": "Barangay"
-      },
-      "field_errors": {
-        "address_address2_blank": "Barangay"
-      }
-    }
   }
 }
