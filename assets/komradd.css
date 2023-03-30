@@ -267,6 +267,11 @@
 .swym-details-container{
   font-family: 'Montserrat' !important;
 }
+.predictive-search{
+  width: 400px;
+}
+
+
 
 
 @media (max-width: 749px){
