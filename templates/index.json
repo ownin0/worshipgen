@@ -170,7 +170,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/long-tees"
+            "button_link": "shopify:\/\/collections\/t-shirts"
           }
         }
       },
