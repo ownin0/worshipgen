@@ -363,10 +363,10 @@
     },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
+          "disabled": true,
           "settings": {
             "heading": "Image banner",
             "heading_size": "h0"
@@ -374,6 +374,7 @@
         },
         "text": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "Give customers details about the banner image(s) or content on the template.",
             "text_style": "body"
@@ -383,7 +384,7 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify:\/\/collections\/tops-1",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -398,6 +399,7 @@
       ],
       "settings": {
         "add-class-parent": "",
+        "image": "shopify:\/\/shop_images\/CG.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
