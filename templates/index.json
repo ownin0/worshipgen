@@ -6,12 +6,12 @@
         "798fbeed-17cb-4cdc-a859-7416db6c8cc5": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1920x800_BANNER_c2a9c276-f8cd-4106-9bf2-e4f26a618c10.jpg",
+            "image": "shopify:\/\/shop_images\/SH_LZ_TK_BANNER_MAY_10_ONLY-min.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/collections\/tops-1",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/collections\/bundles",
             "button_style_secondary": true,
             "box_align": "bottom-center",
             "show_text_box": false,
@@ -600,7 +600,7 @@
         "5d2e4dab-63b8-46db-9ebb-6524dc22c734": {
           "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 22,
+            "heading_size": 20,
             "feed_width": 100,
             "html_area": ""
           }
