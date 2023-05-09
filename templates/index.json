@@ -124,7 +124,7 @@
         "collection": "tops-1",
         "products_to_show": 8,
         "columns_desktop": 4,
-        "full_width": true,
+        "full_width": false,
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": true,
