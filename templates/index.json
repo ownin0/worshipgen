@@ -400,7 +400,7 @@
       "settings": {
         "add-class-parent": "",
         "image": "shopify:\/\/shop_images\/CG.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
