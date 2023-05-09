@@ -239,7 +239,7 @@
         "template--17859463414072__5d7d8494-ccbe-4497-8eca-c77c0c73ee71-16754349626653d77d-0": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/4.png",
+            "image": "shopify:\/\/shop_images\/P2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -278,7 +278,7 @@
         "template--17859463414072__5d7d8494-ccbe-4497-8eca-c77c0c73ee71-16754349626653d77d-1"
       ],
       "settings": {
-        "layout": "full_bleed",
+        "layout": "grid",
         "add-class-parent": "bannerslider",
         "slide_height": "adapt_image",
         "slider_visual": "counter",
@@ -342,7 +342,7 @@
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "collection": "our-best-seller",
+        "collection": "hoodies",
         "products_to_show": 6,
         "columns_desktop": 4,
         "full_width": true,
