@@ -81,16 +81,6 @@
             "link": ""
           }
         },
-        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-2": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/be7b61_e83ff5d8ff214f6a925ee05555c3644a_mv2.webp",
-            "title": "SM City Manila",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
         "c79128b0-befc-46d1-9d53-95d9495efc20": {
           "type": "column",
           "settings": {
@@ -124,7 +114,6 @@
       },
       "block_order": [
         "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-0",
-        "template--18091332501816__2ea0e6ca-7bcb-4314-ab85-d36eeab1e595-16769715453f7de3a5-2",
         "c79128b0-befc-46d1-9d53-95d9495efc20",
         "7b16a9cb-82be-44e9-94cb-2cd3eb76cf47",
         "76c21188-0fa1-4fe6-bae1-a1b8d12c281f"
