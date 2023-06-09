@@ -342,7 +342,7 @@
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "collection": "hoodies",
+        "collection": "lifestyle",
         "products_to_show": 6,
         "columns_desktop": 4,
         "full_width": true,
