@@ -5,6 +5,7 @@
       "blocks": {
         "798fbeed-17cb-4cdc-a859-7416db6c8cc5": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/1920x800_BANNER_1.jpg",
             "heading": "",
@@ -192,7 +193,7 @@
         "template--17859463414072__fac397bc-0ae7-41e5-b2f2-341844a00f76-1678438144e94668c4-0": {
           "type": "heading",
           "settings": {
-            "heading": "10TH ANNIVERSARY",
+            "heading": "NEW STICKERS",
             "heading_size": "h1"
           }
         },
@@ -208,7 +209,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/tops-1"
+            "button_link": "shopify:\/\/products\/copy-of-sticker-short-choose-jesus"
           }
         }
       },
@@ -218,7 +219,7 @@
         "template--17859463414072__fac397bc-0ae7-41e5-b2f2-341844a00f76-1678438144e94668c4-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/1000xV2_caa4cd48-c06f-431a-984e-d8f19826b281.jpg",
+        "image": "shopify:\/\/shop_images\/WEBSITE_FRONT_FORMAT.jpg",
         "add-class-parent": "imagewith-text-custom beige-bg",
         "height": "adapt",
         "desktop_image_width": "medium",
