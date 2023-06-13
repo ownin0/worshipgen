@@ -141,52 +141,6 @@
         "padding_bottom": 36
       }
     },
-    "d58a21bd-5c3e-42b8-8532-cd36b3c898b4": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "THE DAILY BRAD",
-            "heading_size": "h1"
-          }
-        },
-        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-1": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "",
-            "text_style": "body"
-          }
-        },
-        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/collections\/the-daily-brad"
-          }
-        }
-      },
-      "block_order": [
-        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-0",
-        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-1",
-        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/TDB.jpg",
-        "add-class-parent": "imagewith-text-custom beige-bg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "accent-2",
-        "mobile_content_alignment": "center",
-        "padding_top": 0,
-        "padding_bottom": 0
-      }
-    },
     "fac397bc-0ae7-41e5-b2f2-341844a00f76": {
       "type": "image-with-text",
       "blocks": {
@@ -287,6 +241,52 @@
         "change_slides_speed": 3,
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "d58a21bd-5c3e-42b8-8532-cd36b3c898b4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "THE DAILY BRAD",
+            "heading_size": "h1"
+          }
+        },
+        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/the-daily-brad"
+          }
+        }
+      },
+      "block_order": [
+        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-0",
+        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-1",
+        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TDB.jpg",
+        "add-class-parent": "imagewith-text-custom beige-bg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
       }
     },
     "9bcab6a2-a569-4769-9e23-4862b7a08258": {
@@ -620,9 +620,9 @@
   "order": [
     "f2096d7b-2167-4e76-98b4-091614ed5655",
     "2a3a1e37-3295-405d-b64e-e1e4e13221a2",
-    "d58a21bd-5c3e-42b8-8532-cd36b3c898b4",
     "fac397bc-0ae7-41e5-b2f2-341844a00f76",
     "5d7d8494-ccbe-4497-8eca-c77c0c73ee71",
+    "d58a21bd-5c3e-42b8-8532-cd36b3c898b4",
     "9bcab6a2-a569-4769-9e23-4862b7a08258",
     "b0a7e598-9da0-4501-86a7-a4555f3bf335",
     "image_banner",
