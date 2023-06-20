@@ -5,9 +5,8 @@
       "blocks": {
         "798fbeed-17cb-4cdc-a859-7416db6c8cc5": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/1920x800_BANNER_1.jpg",
+            "image": "shopify:\/\/shop_images\/World_Vision_1920x900_1db6176b-b0b2-490f-a65c-3997a4219937.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -27,7 +26,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/Anniv_4pcs_copy.jpg",
             "heading": "",
-            "heading_size": "h1",
+            "heading_size": "h0",
             "subheading": "",
             "button_label": "",
             "link": "",
