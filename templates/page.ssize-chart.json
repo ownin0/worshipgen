@@ -27,6 +27,14 @@
             "row_content": "shopify:\/\/shop_images\/be7b61_2905e347e6784f188cc3ce4e88b33bc3_mv2.jpg"
           }
         },
+        "4af79010-d7ca-4e4b-927b-eeef73925893": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Box Tee",
+            "icon": "none",
+            "row_content": "shopify:\/\/shop_images\/Box_Tee_Size_Chart.jpg"
+          }
+        },
         "59b10fc1-4a43-44ee-a5b7-88c2ae3822d5": {
           "type": "collapsible_row",
           "settings": {
@@ -75,14 +83,6 @@
             "row_content": "shopify:\/\/shop_images\/be7b61_dba29a64920b4ef2b1311c95f31a3b91_mv2.jpg"
           }
         },
-        "4af79010-d7ca-4e4b-927b-eeef73925893": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Pullover",
-            "icon": "none",
-            "row_content": "shopify:\/\/shop_images\/be7b61_b3bb930b194048efbe9354085d647fd9_mv2.jpg"
-          }
-        },
         "cd911c12-318b-47c4-b677-703c4c590826": {
           "type": "collapsible_row",
           "settings": {
@@ -111,13 +111,13 @@
       "block_order": [
         "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-0",
         "1c92f412-4aed-4892-9795-e07f05c92cc2",
+        "4af79010-d7ca-4e4b-927b-eeef73925893",
         "59b10fc1-4a43-44ee-a5b7-88c2ae3822d5",
         "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-1",
         "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-2",
         "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-3",
         "ccaefe63-4d71-4dd6-95cc-c5fc68a79523",
         "77f8c4ae-a740-4f15-b5f3-be554e0e99d3",
-        "4af79010-d7ca-4e4b-927b-eeef73925893",
         "cd911c12-318b-47c4-b677-703c4c590826",
         "adda0f4e-196e-4828-aa5a-1a44da99e3b1",
         "88e205be-f10c-454a-b939-fb4650b84263"
