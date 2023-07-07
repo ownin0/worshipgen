@@ -19,6 +19,22 @@
             "row_content": "shopify:\/\/shop_images\/be7b61_b1a78722ef0047e1b8331dd2ced0ec9d_mv2.jpg"
           }
         },
+        "1c92f412-4aed-4892-9795-e07f05c92cc2": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Long Tee",
+            "icon": "none",
+            "row_content": "shopify:\/\/shop_images\/be7b61_2905e347e6784f188cc3ce4e88b33bc3_mv2.jpg"
+          }
+        },
+        "59b10fc1-4a43-44ee-a5b7-88c2ae3822d5": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Hoodie",
+            "icon": "none",
+            "row_content": "shopify:\/\/shop_images\/be7b61_1f87fea48a0e4efda66bc63dae84a7ce_mv2.jpg"
+          }
+        },
         "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-1": {
           "type": "collapsible_row",
           "settings": {
@@ -59,14 +75,6 @@
             "row_content": "shopify:\/\/shop_images\/be7b61_dba29a64920b4ef2b1311c95f31a3b91_mv2.jpg"
           }
         },
-        "59b10fc1-4a43-44ee-a5b7-88c2ae3822d5": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Hoodie",
-            "icon": "none",
-            "row_content": "shopify:\/\/shop_images\/be7b61_1f87fea48a0e4efda66bc63dae84a7ce_mv2.jpg"
-          }
-        },
         "4af79010-d7ca-4e4b-927b-eeef73925893": {
           "type": "collapsible_row",
           "settings": {
@@ -81,14 +89,6 @@
             "heading": "Baseball Tee",
             "icon": "none",
             "row_content": "shopify:\/\/shop_images\/be7b61_aff4f474d1f84b858c2235e894dec107_mv2.jpg"
-          }
-        },
-        "1c92f412-4aed-4892-9795-e07f05c92cc2": {
-          "type": "collapsible_row",
-          "settings": {
-            "heading": "Long Tee",
-            "icon": "none",
-            "row_content": "shopify:\/\/shop_images\/be7b61_2905e347e6784f188cc3ce4e88b33bc3_mv2.jpg"
           }
         },
         "adda0f4e-196e-4828-aa5a-1a44da99e3b1": {
@@ -110,15 +110,15 @@
       },
       "block_order": [
         "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-0",
+        "1c92f412-4aed-4892-9795-e07f05c92cc2",
+        "59b10fc1-4a43-44ee-a5b7-88c2ae3822d5",
         "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-1",
         "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-2",
         "template--18092032819512__e43d5ff6-671a-4daf-8e5b-a705845ca3a1-1676975482eba94038-3",
         "ccaefe63-4d71-4dd6-95cc-c5fc68a79523",
         "77f8c4ae-a740-4f15-b5f3-be554e0e99d3",
-        "59b10fc1-4a43-44ee-a5b7-88c2ae3822d5",
         "4af79010-d7ca-4e4b-927b-eeef73925893",
         "cd911c12-318b-47c4-b677-703c4c590826",
-        "1c92f412-4aed-4892-9795-e07f05c92cc2",
         "adda0f4e-196e-4828-aa5a-1a44da99e3b1",
         "88e205be-f10c-454a-b939-fb4650b84263"
       ],
