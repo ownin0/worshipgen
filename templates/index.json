@@ -6,7 +6,7 @@
         "798fbeed-17cb-4cdc-a859-7416db6c8cc5": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1920x800_BANNER_3_082f3a94-2310-412a-8de8-f755dc925e97.jpg",
+            "image": "shopify:\/\/shop_images\/Payday.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -188,7 +188,6 @@
     },
     "5d7d8494-ccbe-4497-8eca-c77c0c73ee71": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--17859463414072__5d7d8494-ccbe-4497-8eca-c77c0c73ee71-16754349626653d77d-0": {
           "type": "slide",
@@ -231,6 +230,7 @@
         "template--17859463414072__5d7d8494-ccbe-4497-8eca-c77c0c73ee71-16754349626653d77d-0",
         "template--17859463414072__5d7d8494-ccbe-4497-8eca-c77c0c73ee71-16754349626653d77d-1"
       ],
+      "disabled": true,
       "settings": {
         "layout": "grid",
         "add-class-parent": "bannerslider",
@@ -532,7 +532,6 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column1": {
           "type": "column",
@@ -567,6 +566,7 @@
         "column2",
         "column3"
       ],
+      "disabled": true,
       "settings": {
         "add-class-parent": "",
         "title": "",
