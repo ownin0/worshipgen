@@ -80,11 +80,10 @@
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
-            "content": "<ul><li>Wash separately in mild detergent<\/li><li>Do not soak<\/li><li>Do not bleach<\/li><li>Do not tumble dry<\/li><li>Flat dry<\/li><li>Cool iron on reverse<\/li><\/ul>",
+            "content": "<ul><li>WASHING INSTRUCTIONS<br\/>Do not bleach<br\/>Do not tumble dry<br\/>Do not dry clean<br\/>Machine wash cold delicate cycle<br\/>Touch up with cool iron<br\/><br\/>EXTRA CARE INFORMATION<br\/>Use mild detergent only<br\/>Wash separately inside out<\/li><\/ul>",
             "page": ""
           }
         },
