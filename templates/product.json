@@ -54,7 +54,7 @@
         "6b294ad2-90c0-4972-add2-3d27df454d0f": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Care guide",
+            "heading": "Care Guide",
             "icon": "washing",
             "content": "<p>{{ product.metafields.descriptors.care_guide | metafield_tag }}<\/p>",
             "page": ""
@@ -80,6 +80,7 @@
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
