@@ -51,6 +51,15 @@
           "settings": {
           }
         },
+        "6b294ad2-90c0-4972-add2-3d27df454d0f": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Care Guide",
+            "icon": "washing",
+            "content": "<p>{{ product.metafields.descriptors.care_guide | metafield_tag }}<\/p>",
+            "page": ""
+          }
+        },
         "collapsible-row-0": {
           "type": "collapsible_tab",
           "settings": {
@@ -95,6 +104,7 @@
         "quantity_selector",
         "buy_buttons",
         "description",
+        "6b294ad2-90c0-4972-add2-3d27df454d0f",
         "collapsible-row-0",
         "collapsible-row-2",
         "collapsible-row-3",
@@ -147,7 +157,6 @@
     },
     "multicolumn": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "column-0": {
           "type": "column",
@@ -172,6 +181,7 @@
         "column-0",
         "column-1"
       ],
+      "disabled": true,
       "settings": {
         "add-class-parent": "",
         "title": "",
