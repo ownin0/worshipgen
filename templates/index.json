@@ -343,7 +343,7 @@
         "description": "",
         "show_description": true,
         "description_style": "body",
-        "collection": "lifestyle",
+        "collection": "our-best-seller",
         "products_to_show": 6,
         "columns_desktop": 4,
         "full_width": true,
@@ -601,7 +601,7 @@
       "type": "apps",
       "blocks": {
         "5d2e4dab-63b8-46db-9ebb-6524dc22c734": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
             "heading_size": 20,
             "feed_width": 100,
