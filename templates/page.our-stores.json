@@ -33,6 +33,7 @@
         },
         "template--18091332501816__8ff5cf83-56df-4a0b-a693-5278e373db58-16769715453f7de3a5-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/Frame_34.png",
             "title": "",
@@ -56,8 +57,8 @@
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
+        "columns_desktop": 2,
+        "column_alignment": "center",
         "background_style": "primary",
         "button_label": "",
         "button_link": "",
