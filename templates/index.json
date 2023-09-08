@@ -146,7 +146,7 @@
         "template--17859463414072__fac397bc-0ae7-41e5-b2f2-341844a00f76-1678438144e94668c4-0": {
           "type": "heading",
           "settings": {
-            "heading": "NEW STICKERS",
+            "heading": "TOTE BAGS",
             "heading_size": "h1"
           }
         },
@@ -162,7 +162,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW",
-            "button_link": "shopify:\/\/products\/copy-of-sticker-short-choose-jesus"
+            "button_link": "shopify:\/\/products\/tote-bag-team-jesus-nothing-is-impossible-more-of-jesus"
           }
         }
       },
@@ -172,7 +172,7 @@
         "template--17859463414072__fac397bc-0ae7-41e5-b2f2-341844a00f76-1678438144e94668c4-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WEBSITE_FRONT_FORMAT.jpg",
+        "image": "shopify:\/\/shop_images\/Charise_Restocked.jpg",
         "add-class-parent": "imagewith-text-custom beige-bg",
         "height": "adapt",
         "desktop_image_width": "medium",
