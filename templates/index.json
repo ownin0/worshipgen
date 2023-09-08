@@ -5,14 +5,13 @@
       "blocks": {
         "798fbeed-17cb-4cdc-a859-7416db6c8cc5": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/1920x800_BANNER_2_1.jpg",
+            "image": "shopify:\/\/shop_images\/1920x800_BANNER_4_-min.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/collections\/bundles",
+            "link": "shopify:\/\/collections\/sale",
             "button_style_secondary": true,
             "box_align": "bottom-center",
             "show_text_box": false,
