@@ -6,14 +6,14 @@
         "798fbeed-17cb-4cdc-a859-7416db6c8cc5": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1920x800_BANNER_4_-min.jpg",
+            "image": "shopify:\/\/shop_images\/1920x800_BANNER_2_2_-min.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
-            "button_label": "",
-            "link": "shopify:\/\/collections\/sale",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/collections\/tops-1",
             "button_style_secondary": true,
-            "box_align": "bottom-center",
+            "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
