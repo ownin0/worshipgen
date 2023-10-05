@@ -5,6 +5,7 @@
       "blocks": {
         "798fbeed-17cb-4cdc-a859-7416db6c8cc5": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/1920x800_BANNER_2_2_-min.jpg",
             "heading": "",
@@ -619,7 +620,7 @@
       "type": "apps",
       "blocks": {
         "974a2759-d545-463a-b550-957153915db0": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {
             "maxwidth": 1080
           }
