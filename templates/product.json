@@ -138,6 +138,30 @@
         "include_margins": true
       }
     },
+    "16986504012f87c037": {
+      "type": "apps",
+      "blocks": {
+        "e4472d3a-4834-4c17-b7fd-250ae085a47f": {
+          "type": "shopify:\/\/apps\/bundler\/blocks\/custom-bundle\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
+          "disabled": true,
+          "settings": {
+            "shortcode": ""
+          }
+        },
+        "1154bba5-999b-4ae2-bc57-cf9f0bcc3758": {
+          "type": "shopify:\/\/apps\/bundler\/blocks\/bundler-target-element\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "e4472d3a-4834-4c17-b7fd-250ae085a47f",
+        "1154bba5-999b-4ae2-bc57-cf9f0bcc3758"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "16757564430d85b798": {
       "type": "apps",
       "blocks": {
@@ -276,39 +300,15 @@
         "padding_top": 36,
         "padding_bottom": 28
       }
-    },
-    "16986504012f87c037": {
-      "type": "apps",
-      "blocks": {
-        "e4472d3a-4834-4c17-b7fd-250ae085a47f": {
-          "type": "shopify:\/\/apps\/bundler\/blocks\/custom-bundle\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
-          "disabled": true,
-          "settings": {
-            "shortcode": ""
-          }
-        },
-        "1154bba5-999b-4ae2-bc57-cf9f0bcc3758": {
-          "type": "shopify:\/\/apps\/bundler\/blocks\/bundler-target-element\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "e4472d3a-4834-4c17-b7fd-250ae085a47f",
-        "1154bba5-999b-4ae2-bc57-cf9f0bcc3758"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "main",
     "judgeme_section_review_widget_112d",
+    "16986504012f87c037",
     "16757564430d85b798",
     "multicolumn",
     "a19bcc96-050e-4842-afb3-ef641e2dcc19",
-    "product-recommendations",
-    "16986504012f87c037"
+    "product-recommendations"
   ]
 }
