@@ -3,6 +3,24 @@
     "f2096d7b-2167-4e76-98b4-091614ed5655": {
       "type": "slideshow",
       "blocks": {
+        "2d83e673-a102-4c0c-a7e8-54b2f169253c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1920x800_BANNER_6_-min.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/collections\/tops-1",
+            "button_style_secondary": true,
+            "box_align": "bottom-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "335eceb3-6d76-484d-8147-d04390af00e3": {
           "type": "slide",
           "settings": {
@@ -74,32 +92,14 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
-        },
-        "2d83e673-a102-4c0c-a7e8-54b2f169253c": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Awake_Banner_4e4545b1-74ff-4417-b4d6-d7e6e108e702.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "SHOP NOW",
-            "link": "shopify:\/\/products\/awake-breath-on-us",
-            "button_style_secondary": true,
-            "box_align": "bottom-center",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
+        "2d83e673-a102-4c0c-a7e8-54b2f169253c",
         "335eceb3-6d76-484d-8147-d04390af00e3",
         "798fbeed-17cb-4cdc-a859-7416db6c8cc5",
         "41521a13-790d-4455-9efa-c4fe0d9f8255",
-        "b60a565c-e917-4e5e-97b4-1eac36e98b14",
-        "2d83e673-a102-4c0c-a7e8-54b2f169253c"
+        "b60a565c-e917-4e5e-97b4-1eac36e98b14"
       ],
       "settings": {
         "layout": "full_bleed",
