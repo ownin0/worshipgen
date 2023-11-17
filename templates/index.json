@@ -5,6 +5,7 @@
       "blocks": {
         "2d83e673-a102-4c0c-a7e8-54b2f169253c": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/1920x800_BANNER_6_-min.jpg",
             "heading": "",
