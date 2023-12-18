@@ -5,6 +5,7 @@
       "blocks": {
         "2d83e673-a102-4c0c-a7e8-54b2f169253c": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/1920x800_BANNER_1_1_31681634-c1d5-4efd-81a3-f717ee553f31.jpg",
             "heading": "",
@@ -602,6 +603,7 @@
         "5d2e4dab-63b8-46db-9ebb-6524dc22c734": {
           "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
+            "title": "",
             "title_color": "",
             "alignment": "center",
             "html_area": ""
