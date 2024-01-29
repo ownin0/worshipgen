@@ -1,6 +1,8 @@
 <!doctype html>
 <html class="no-js" lang="{{ request.locale.iso_code }}">
   <head>
+<!--VEDA_ROCKET_LOADER--><script src="{{ 'veda-rocket-loader.js' | asset_url }}" defer></script><!--END_VEDA_ROCKET_LOADER-->
+
  {%- render 'ecom_header' -%}
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -253,7 +255,10 @@
     {% elsif template contains 'about' %}
       about-page
     {% endif %}
-    ">
+    "><div id="veda-root" style="opacity: 0; overflow: clip; display: flow-root;">
+<!--VEDA_HEADER_THEME_POSITION-->
+{%sections 'veda-theme-header' %}
+
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
       {{ "accessibility.skip_to_text" | t }}
     </a>
@@ -311,5 +316,8 @@
 {% include 'swymSnippet' %}
 
 <script type="text/javascript" async="" src="https://reviews.enormapps.com/product-reviews/frontend/embed.js"></script>
-{%- render "ecom_footer"-%}</body>
+{%- render "ecom_footer"-%}
+<!--VEDA_FOOTER_THEME_POSITION-->
+{%sections 'veda-theme-footer' %}
+<!--BEFORE_CLOSE_VEDA_ROOT--></div></body>
 </html>
