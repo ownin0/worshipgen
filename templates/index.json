@@ -78,12 +78,12 @@
         "798fbeed-17cb-4cdc-a859-7416db6c8cc5": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1920x800_v3.jpg",
+            "image": "shopify:\/\/shop_images\/1920x800_BANNER_2_3_-min.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "SHOP NOW",
-            "link": "shopify:\/\/products\/plans-for-you",
+            "link": "shopify:\/\/collections\/bundles",
             "button_style_secondary": true,
             "box_align": "middle-right",
             "show_text_box": false,
