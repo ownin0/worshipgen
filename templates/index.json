@@ -517,27 +517,6 @@
     },
     "psb_banner_banner_01_4mTLhw": {
       "type": "psb-banner-banner-01",
-      "blocks": {
-        "subheading_6wCkdR": {
-          "type": "subheading",
-          "disabled": true,
-          "settings": {
-            "subheading_text": "THE STONE SERIES"
-          }
-        },
-        "heading_G3Ndbd": {
-          "type": "heading",
-          "disabled": true,
-          "settings": {
-            "heading_text": "Great Leather Collection",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_6wCkdR",
-        "heading_G3Ndbd"
-      ],
       "settings": {
         "container_width": "psb-container-fullwidth",
         "background_image": "shopify:\/\/shop_images\/b1.jpg",
