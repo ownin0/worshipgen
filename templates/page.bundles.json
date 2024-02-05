@@ -2,13 +2,34 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "custom_css": [
+
+      ],
       "settings": {
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1707114027a8e6560d": {
+      "type": "apps",
+      "blocks": {
+        "bundler_custom_bundle_jPF7GF": {
+          "type": "shopify:\/\/apps\/bundler\/blocks\/custom-bundle\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
+          "settings": {
+            "shortcode": ""
+          }
+        }
+      },
+      "block_order": [
+        "bundler_custom_bundle_jPF7GF"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1707114027a8e6560d"
   ]
 }
