@@ -517,6 +517,7 @@
     },
     "psb_banner_banner_01_4mTLhw": {
       "type": "psb-banner-banner-01",
+      "disabled": true,
       "settings": {
         "container_width": "psb-container-fullwidth",
         "background_image": "shopify:\/\/shop_images\/b1.jpg",
