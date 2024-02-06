@@ -240,26 +240,8 @@
           "position": "right"
         }
       },
-      "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": true,
-        "settings": {
-        }
-      },
       "5918445685253060206": {
         "type": "shopify:\/\/apps\/bundler\/blocks\/bundler-script-append\/7a6ae1b8-3b16-449b-8429-8bb89a62c664",
-        "disabled": true,
-        "settings": {
-        }
-      },
-      "judgeme_core_b96167ce": {
-        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-        "disabled": true,
-        "settings": {
-        }
-      },
-      "15623156175785154009": {
-        "type": "shopify:\/\/apps\/qikify-smart-menu-mega-menu\/blocks\/app-embed\/19d2f1cd-1836-4a32-8937-03df3c601dc8",
         "disabled": true,
         "settings": {
         }
@@ -272,13 +254,31 @@
       },
       "12723626199553905971": {
         "type": "shopify:\/\/apps\/puco-sections-blocks\/blocks\/app-embed-stylesheet\/f1ea0cb9-0193-44b7-bab7-d0fd6bec6cbf",
-        "disabled": true,
+        "disabled": false,
         "settings": {
         }
       },
       "7046932070715527255": {
         "type": "shopify:\/\/apps\/puco-sections-blocks\/blocks\/app-embed-javascript\/f1ea0cb9-0193-44b7-bab7-d0fd6bec6cbf",
-        "disabled": true,
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "judgeme_core_b96167ce": {
+        "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/judgeme_core\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "855628211100114053": {
+        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "disabled": false,
+        "settings": {
+        }
+      },
+      "15623156175785154009": {
+        "type": "shopify:\/\/apps\/qikify-smart-menu-mega-menu\/blocks\/app-embed\/19d2f1cd-1836-4a32-8937-03df3c601dc8",
+        "disabled": false,
         "settings": {
         }
       }
