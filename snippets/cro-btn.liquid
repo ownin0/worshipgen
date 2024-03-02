@@ -1,0 +1,12 @@
+{% comment %}
+This liquid snippet is used by CRO Buttons
+Do not modify or remove this snippet, this snippet can be overwritten when the app is upgraded
+{% endcomment %}
+<script>
+    //:generate:app_settings
+var cro_settings = {"scripts":[{"name":"cro-btn-exec","licenseCode":"k05cy","url":"https://script.egany.com/65e32c5d428461f498fd2147/65e32c5d4284614a36fd214b/6266474e9090c664dcef1399/k05cy/cro-btn-exec.js","timestamp":1709386902315,"getAppSettingUpdateTimestampApi":"https://api.egany.com/users/methods/call/getAppSettingUpdateTimestamp?userId=65e32c5d428461f498fd2147&shopId=65e32c5d4284614a36fd214b&appKey=cro-btn&licenseCode=k05cy","api":"https://api.egany.com/users/methods/call/getScriptAppSetting?userId=65e32c5d428461f498fd2147&shopId=65e32c5d4284614a36fd214b&appKey=cro-btn&licenseCode=k05cy"}]};
+    //:endgenerate
+    document.addEventListener("DOMContentLoaded", function(){
+        window.loadCroScript && window.loadCroScript(cro_settings.scripts[0].url)
+    })
+</script>

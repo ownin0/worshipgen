@@ -1,0 +1,27 @@
+{% comment %}
+This liquid snippet is used by CRO Buttons
+Do not modify or remove this snippet, this snippet can be overwritten when the app is upgraded
+{% endcomment %}
+<script>
+	window['cro-btn'] = {
+		shop :'{{shop.permanent_domain |replace: "https://" }}',
+		platform: 'shopify',
+        moneyFormat: {{shop.money_format | json }},
+		shopId: '65e32c5d4284614a36fd214b',
+		appId:'6266474e9090c664dcef1399',
+		userId: '65e32c5d428461f498fd2147',
+		currentTemplate: '{{template}}',
+		platformApi: Shopify,
+		scripts: [],
+		lang: {
+		"email_invalid": "{{ 'cro_button.email_invalid' | t }}",
+        "phone_invalid": "{{ 'cro_button.phone_invalid' | t }}",
+        "require_invalid": "{{ 'cro_button.require_invalid' | t }}",
+        "unavailable": "{{ 'cro_button.unavailable' | t }}"
+		}
+	}
+    {%if template contains 'product' -%}
+    window['cro-btn'].productHandle = '{{product.url}}'
+    {%endif-%}
+	 window.egany = 	window.egany || {}
+</script>
