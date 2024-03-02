@@ -1,0 +1,672 @@
+{
+  "sections": {
+    "f2096d7b-2167-4e76-98b4-091614ed5655": {
+      "type": "slideshow",
+      "blocks": {
+        "798fbeed-17cb-4cdc-a859-7416db6c8cc5": {
+          "type": "slide",
+          "disabled": true,
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1920x800_BANNER_2_3_-min.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/collections\/tops-1",
+            "button_style_secondary": true,
+            "box_align": "middle-right",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "b60a565c-e917-4e5e-97b4-1eac36e98b14": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Untitled-1_c210e76d-29da-471b-8c2c-a1bfdc9a5397.jpg",
+            "heading": "",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "",
+            "link": "shopify:\/\/collections\/sale",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "2d83e673-a102-4c0c-a7e8-54b2f169253c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Team_Jesus_Banner.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/products\/team-jesus-classic-black",
+            "button_style_secondary": true,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "41521a13-790d-4455-9efa-c4fe0d9f8255": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Tote_Bags_cf2eb834-0e3b-438d-a811-98253d85c899.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/products\/tote-bag-team-jesus-nothing-is-impossible-more-of-jesus",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "335eceb3-6d76-484d-8147-d04390af00e3": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1920x800_V2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/products\/team-jesus-2023-t-shirt",
+            "button_style_secondary": false,
+            "box_align": "bottom-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "798fbeed-17cb-4cdc-a859-7416db6c8cc5",
+        "b60a565c-e917-4e5e-97b4-1eac36e98b14",
+        "2d83e673-a102-4c0c-a7e8-54b2f169253c",
+        "41521a13-790d-4455-9efa-c4fe0d9f8255",
+        "335eceb3-6d76-484d-8147-d04390af00e3"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "add-class-parent": "",
+        "slide_height": "adapt_image",
+        "slider_visual": "dots",
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "show_text_below": false,
+        "accessibility_info": ""
+      }
+    },
+    "2a3a1e37-3295-405d-b64e-e1e4e13221a2": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "add-class-parent": "collection-homepage",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "tops-1",
+        "products_to_show": 6,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "accent-2",
+        "image_ratio": "portrait",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fac397bc-0ae7-41e5-b2f2-341844a00f76": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17859463414072__fac397bc-0ae7-41e5-b2f2-341844a00f76-1678438144e94668c4-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "TOTE BAGS",
+            "heading_size": "h1"
+          }
+        },
+        "template--17859463414072__fac397bc-0ae7-41e5-b2f2-341844a00f76-1678438144e94668c4-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--17859463414072__fac397bc-0ae7-41e5-b2f2-341844a00f76-1678438144e94668c4-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/products\/tote-bag-team-jesus-nothing-is-impossible-more-of-jesus"
+          }
+        }
+      },
+      "block_order": [
+        "template--17859463414072__fac397bc-0ae7-41e5-b2f2-341844a00f76-1678438144e94668c4-0",
+        "template--17859463414072__fac397bc-0ae7-41e5-b2f2-341844a00f76-1678438144e94668c4-1",
+        "template--17859463414072__fac397bc-0ae7-41e5-b2f2-341844a00f76-1678438144e94668c4-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Charise_Restocked.jpg",
+        "add-class-parent": "imagewith-text-custom beige-bg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "text_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "5d7d8494-ccbe-4497-8eca-c77c0c73ee71": {
+      "type": "slideshow",
+      "blocks": {
+        "template--17859463414072__5d7d8494-ccbe-4497-8eca-c77c0c73ee71-16754349626653d77d-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/P2.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "template--17859463414072__5d7d8494-ccbe-4497-8eca-c77c0c73ee71-16754349626653d77d-1": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/4.png",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": true,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--17859463414072__5d7d8494-ccbe-4497-8eca-c77c0c73ee71-16754349626653d77d-0",
+        "template--17859463414072__5d7d8494-ccbe-4497-8eca-c77c0c73ee71-16754349626653d77d-1"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "grid",
+        "add-class-parent": "bannerslider",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 3,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "d58a21bd-5c3e-42b8-8532-cd36b3c898b4": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "THE DAILY BRAD",
+            "heading_size": "h1"
+          }
+        },
+        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW",
+            "button_link": "shopify:\/\/collections\/the-daily-brad"
+          }
+        }
+      },
+      "block_order": [
+        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-0",
+        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-1",
+        "template--17859463414072__d58a21bd-5c3e-42b8-8532-cd36b3c898b4-16754335105c6f94d1-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/TDB.jpg",
+        "add-class-parent": "imagewith-text-custom beige-bg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "accent-2",
+        "mobile_content_alignment": "center",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "9bcab6a2-a569-4769-9e23-4862b7a08258": {
+      "type": "rich-text",
+      "blocks": {
+        "template--17859463414072__9bcab6a2-a569-4769-9e23-4862b7a08258-1677660076b75c6b39-0": {
+          "type": "heading",
+          "settings": {
+            "makeh1": true,
+            "heading": "<p>FEATURED PRODUCTS<\/p>",
+            "heading_size": "h0"
+          }
+        },
+        "template--17859463414072__9bcab6a2-a569-4769-9e23-4862b7a08258-1677660076b75c6b39-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--17859463414072__9bcab6a2-a569-4769-9e23-4862b7a08258-1677660076b75c6b39-2": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--17859463414072__9bcab6a2-a569-4769-9e23-4862b7a08258-1677660076b75c6b39-0",
+        "template--17859463414072__9bcab6a2-a569-4769-9e23-4862b7a08258-1677660076b75c6b39-1",
+        "template--17859463414072__9bcab6a2-a569-4769-9e23-4862b7a08258-1677660076b75c6b39-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 20,
+        "padding_bottom": 8
+      }
+    },
+    "b0a7e598-9da0-4501-86a7-a4555f3bf335": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "add-class-parent": "",
+        "heading_size": "h0",
+        "description": "",
+        "show_description": true,
+        "description_style": "body",
+        "collection": "our-best-seller",
+        "products_to_show": 7,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "accent-2",
+        "image_ratio": "square",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 36
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h0"
+          }
+        },
+        "text": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "SHOP NOW",
+            "button_link_1": "shopify:\/\/collections\/tops-1",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text",
+        "button"
+      ],
+      "settings": {
+        "add-class-parent": "",
+        "image": "shopify:\/\/shop_images\/Anniv_4pcs_copy.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": false,
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": false
+      }
+    },
+    "rich_text": {
+      "type": "rich-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "makeh1": false,
+            "heading": "<h1>WORSHIP GENERATION<\/h1>",
+            "heading_size": "h1"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Is a brand of Christian merchandise that seeks to make worship a lifestyle. We primarily serve people who are proud of their faith and who desire to proclaim God’s love. We hope that through our merchandise, people will have a means by which they can express their passion for Jesus and in the process, tell the world about Him. See you in the following stores and together, let's<\/p><p> <a href=\"https:\/\/www.facebook.com\/hashtag\/makeworshipalifestyle?source=note\" target=\"_blank\"><span style=\"text-decoration:underline\"><strong>#MakeWorshipALifestyle<\/strong><\/span><\/a>!<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "accent-2",
+        "full_width": true,
+        "padding_top": 24,
+        "padding_bottom": 0
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "disabled": true,
+      "settings": {
+        "title": "Featured products",
+        "add-class-parent": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "background-1",
+        "image_ratio": "adapt",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 28,
+        "padding_bottom": 36
+      }
+    },
+    "2a48034a-3fc7-4bdc-b009-90b87b53d9bb": {
+      "type": "collection-list",
+      "blocks": {
+        "template--17859463414072__2a48034a-3fc7-4bdc-b009-90b87b53d9bb-16754357536e281eb1-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "tops-1"
+          }
+        },
+        "template--17859463414072__2a48034a-3fc7-4bdc-b009-90b87b53d9bb-16754357536e281eb1-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lifestyle"
+          }
+        },
+        "template--17859463414072__2a48034a-3fc7-4bdc-b009-90b87b53d9bb-16754357536e281eb1-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "wg-world-vision"
+          }
+        }
+      },
+      "block_order": [
+        "template--17859463414072__2a48034a-3fc7-4bdc-b009-90b87b53d9bb-16754357536e281eb1-0",
+        "template--17859463414072__2a48034a-3fc7-4bdc-b009-90b87b53d9bb-16754357536e281eb1-1",
+        "template--17859463414072__2a48034a-3fc7-4bdc-b009-90b87b53d9bb-16754357536e281eb1-2"
+      ],
+      "custom_css": [
+        ".title-wrapper-with-link {justify-content: center;}"
+      ],
+      "settings": {
+        "title": "Collections",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "accent-2",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "psb_banner_banner_01_4mTLhw": {
+      "type": "psb-banner-banner-01",
+      "disabled": true,
+      "settings": {
+        "container_width": "psb-container-fullwidth",
+        "background_image": "shopify:\/\/shop_images\/b1.jpg",
+        "text_align": "center",
+        "inherit_fonts": false,
+        "text_color": "#ffffff",
+        "section_padding_top": 350,
+        "section_padding_bottom": 350,
+        "section_padding_top_mobile": 150,
+        "section_padding_bottom_mobile": 150
+      }
+    },
+    "video": {
+      "type": "video",
+      "settings": {
+        "add-class-parent": "make-video-rounded",
+        "heading": "",
+        "heading_size": "h1",
+        "cover_image": "shopify:\/\/shop_images\/Untitled-2_f253b949-d0a1-4778-ac91-c57bcf787299.jpg",
+        "video_url": "https:\/\/youtu.be\/nVAnpkh86sQ",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "accent-2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn": {
+      "type": "multicolumn",
+      "blocks": {
+        "column1": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column2": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column3": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column1",
+        "column2",
+        "column3"
+      ],
+      "disabled": true,
+      "settings": {
+        "add-class-parent": "",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "third",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "accent-2",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "dd866c85-2a28-41f9-951a-2e1d248f2885": {
+      "type": "instafeed",
+      "custom_css": [
+
+      ],
+      "settings": {
+        "heading_size": 20,
+        "feed_width": 100,
+        "html_area": ""
+      }
+    },
+    "167843799691a734ba": {
+      "type": "apps",
+      "blocks": {
+        "5d2e4dab-63b8-46db-9ebb-6524dc22c734": {
+          "type": "shopify:\/\/apps\/instafeed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "settings": {
+            "title": "",
+            "title_color": "",
+            "alignment": "center",
+            "html_area": ""
+          }
+        }
+      },
+      "block_order": [
+        "5d2e4dab-63b8-46db-9ebb-6524dc22c734"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "168983363707e32589": {
+      "type": "apps",
+      "blocks": {
+        "974a2759-d545-463a-b550-957153915db0": {
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "974a2759-d545-463a-b550-957153915db0"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "f2096d7b-2167-4e76-98b4-091614ed5655",
+    "2a3a1e37-3295-405d-b64e-e1e4e13221a2",
+    "fac397bc-0ae7-41e5-b2f2-341844a00f76",
+    "5d7d8494-ccbe-4497-8eca-c77c0c73ee71",
+    "d58a21bd-5c3e-42b8-8532-cd36b3c898b4",
+    "9bcab6a2-a569-4769-9e23-4862b7a08258",
+    "b0a7e598-9da0-4501-86a7-a4555f3bf335",
+    "image_banner",
+    "rich_text",
+    "featured_collection",
+    "2a48034a-3fc7-4bdc-b009-90b87b53d9bb",
+    "psb_banner_banner_01_4mTLhw",
+    "video",
+    "multicolumn",
+    "dd866c85-2a28-41f9-951a-2e1d248f2885",
+    "167843799691a734ba",
+    "168983363707e32589"
+  ]
+}
