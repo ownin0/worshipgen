@@ -1,4 +1,10 @@
 {
+  "cro_button": {
+    "email_invalid": "Email is invalid",
+    "phone_invalid": "Phone is invalid",
+    "require_invalid": "This field is required",
+    "unavailable": "Unavailable"
+  },
   "general": {
     "password_page": {
       "login_form_heading": "Enter store using password:",
@@ -187,6 +193,10 @@
     }
   },
   "templates": {
+    "404": {
+      "title": "Page not found",
+      "subtext": "404"
+    },
     "search": {
       "no_results": "No results found for “{{ terms }}”. Check the spelling or use a different word or phrase.",
       "page": "Page",
@@ -216,10 +226,6 @@
         "post_success": "Thanks for contacting us. We'll get back to you as soon as possible.",
         "error_heading": "Please adjust the following:"
       }
-    },
-    "404": {
-      "title": "Page not found",
-      "subtext": "404"
     }
   },
   "sections": {
