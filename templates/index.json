@@ -5,16 +5,15 @@
       "blocks": {
         "798fbeed-17cb-4cdc-a859-7416db6c8cc5": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/1920x800_BANNER_2_3_-min.jpg",
+            "image": "shopify:\/\/shop_images\/1920x800_BANNER_8_-min.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "SHOP NOW",
-            "link": "shopify:\/\/collections\/tops-1",
+            "link": "shopify:\/\/collections\/bundles",
             "button_style_secondary": true,
-            "box_align": "middle-right",
+            "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
