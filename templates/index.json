@@ -3,6 +3,24 @@
     "f2096d7b-2167-4e76-98b4-091614ed5655": {
       "type": "slideshow",
       "blocks": {
+        "2d83e673-a102-4c0c-a7e8-54b2f169253c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1920x800_BANNER_2_1_0b80052b-0423-4b6f-96bc-e36233215fdb.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "SHOP NOW",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": true,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-2",
+            "text_alignment_mobile": "center"
+          }
+        },
         "slide_VagFaW": {
           "type": "slide",
           "settings": {
@@ -36,24 +54,6 @@
             "text_alignment": "center",
             "image_overlay_opacity": 0,
             "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
-        },
-        "2d83e673-a102-4c0c-a7e8-54b2f169253c": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/Team_Jesus_Banner.jpg",
-            "heading": "",
-            "heading_size": "h1",
-            "subheading": "",
-            "button_label": "SHOP NOW",
-            "link": "shopify:\/\/products\/team-jesus-classic-black",
-            "button_style_secondary": true,
-            "box_align": "middle-left",
-            "show_text_box": false,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "accent-2",
             "text_alignment_mobile": "center"
           }
         },
@@ -95,9 +95,9 @@
         }
       },
       "block_order": [
+        "2d83e673-a102-4c0c-a7e8-54b2f169253c",
         "slide_VagFaW",
         "b60a565c-e917-4e5e-97b4-1eac36e98b14",
-        "2d83e673-a102-4c0c-a7e8-54b2f169253c",
         "41521a13-790d-4455-9efa-c4fe0d9f8255",
         "335eceb3-6d76-484d-8147-d04390af00e3"
       ],
