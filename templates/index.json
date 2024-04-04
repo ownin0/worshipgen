@@ -13,7 +13,7 @@
             "button_label": "SHOP NOW",
             "link": "shopify:\/\/collections\/all",
             "button_style_secondary": true,
-            "box_align": "bottom-left",
+            "box_align": "bottom-center",
             "show_text_box": false,
             "text_alignment": "center",
             "image_overlay_opacity": 0,
